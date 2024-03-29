@@ -87,34 +87,34 @@ O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Métricas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto fiquei no desenvolvimento Front-End, desenvolvendo algumas páginas como a da Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5, CSS3 e JavaScript)
-> Sei fazer com autonomia.
+> Conhecimento considerável.
 
 * Controle de versionamento (GIT)  
-> Sei fazer com autonomia.
+> Conhecimento considerável.
 
 * Raspagem de Dados (Web-Scraping) (Python)  
-> Sei fazer com ajuda.
+> Conhecimento básico.
 
 ### Soft skills
 
 * Colaboração
-> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver durante o projeto.
+> Mantenho uma postura colaborativa em todas as fases do projeto, oferecendo suporte aos meus colegas em diversas áreas conforme necessário.
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+> Demonstro habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, otimizando assim o tempo dedicado aos estudos e às atividades do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
+> Estabeleço uma comunicação eficaz com a equipe através de reuniões diárias, definição clara de tarefas e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
  
 * Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Busco constantemente maior engajamento no desenvolvimento do projeto ao longo das sprints, o que me proporciona autonomia para tomar decisões e agir de forma independente quando necessário.
 
 * Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
+> Desenvolvo a habilidade de trabalhar em conjunto de forma eficiente, colaborando de maneira ativa e harmoniosa com meus colegas durante todas as etapas do projeto.
