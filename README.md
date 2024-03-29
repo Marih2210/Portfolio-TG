@@ -8,7 +8,7 @@
 
 <img align="right" src="imagens/perfil.jpg" alt="Foto" width="200"/>
 
-Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. Comecei o meu interesse pela área da tecnologia, no Ensino Médio, foi um período em que tive um contato maior com a informática, a partir dai comecei a assistir alguns cursos onlines e programar por conta própria. No 3º Ano do Ensino Médio prestei vestibular para faculdades na área de tecnologia, entrei na Fatec de São José dos Campos, e até então tenho desenvolvido e aprimorado minhas habilidades de programação.
+Olá, meu nome é Mariana Veloso de Souza, atualmente vivo em São José dos Campos e curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos, o foco do curso se baseia no desenvolvimento pessoal do aluno nas áreas de programação, desenvolvimento, manutenção de sistemas e aplicação do método SCRUM. Minha introdução na área da tecnologia, foi no Ensino Médio, cursava Automação Industrial integrado ao Ensino Médio, lá tive contato com Elétrica, Eletrônica, Pneumática, Programação, desenvolvi atividades e projetos em Python, C++, C#, sendo elas desde um Cubo de Led, um jogo em Python, um Sistema eletrônico de led e um Sistema chamado SOS Deslizamentos, projeto que visava mitigar futuros deslizamentos em áreas de risco, controlado através de Sensores de umidade, Leds e Buzzer sonoros. No final do Ensino Médio me inscrevi para a Fatec de São José dos Campos e fui aprovada e desde então mantenho o desenvolvimento e aprimoramento dos meus conhecimentos em TI.
 </Div>
 
 <Div align="center" >
@@ -17,8 +17,8 @@ Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo 
 
 ### Contatos
 
-  <a href= "https://linkedin.com/in/NicolasPereira06" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/NicolasPereira06" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/mariana-veloso-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://github.com/Marih2210" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <hr />  
 
