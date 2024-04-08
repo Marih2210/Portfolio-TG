@@ -79,20 +79,20 @@ O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End, desenvolvendo algumas páginas como a da Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas usando HTML, CSS, Bootstrap e Javascript, sendo elas a de Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros, usando Javascript e por fim a parte da raspagem, utilizando Python e além disso usamos o Flask do Python para esse proejeto Web. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5, CSS3 e JavaScript)
-> Conhecimento considerável.
+* Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
+> Conhecimento considerável e pude aprimorar e desenvolver mais ainda os meus conhecimentos em HTML e CSS, além de aprender a puxar dados em um Select.
 
 * Controle de versionamento (GIT)  
-> Conhecimento considerável.
+> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
 
 * Raspagem de Dados (Web-Scraping) (Python)  
-> Conhecimento básico.
+> Conhecimento básico, raspagem básica usando Python.
 
 ### Soft skills
 
