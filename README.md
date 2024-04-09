@@ -96,17 +96,4 @@ Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma p
 
 ### Soft skills
 
-* Colaboração
-> Mantenho uma postura colaborativa em todas as fases do projeto, oferecendo suporte aos meus colegas em diversas áreas conforme necessário.
-
-* Organização 
-> Demonstro habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, otimizando assim o tempo dedicado aos estudos e às atividades do projeto.
-
-* Comunicação 
-> Estabeleço uma comunicação eficaz com a equipe através de reuniões diárias, definição clara de tarefas e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
- 
-* Autonomia
-> Busco constantemente maior engajamento no desenvolvimento do projeto ao longo das sprints, o que me proporciona autonomia para tomar decisões e agir de forma independente quando necessário.
-
-* Trabalho em equipe
-> Desenvolvo a habilidade de trabalhar em conjunto de forma eficiente, colaborando de maneira ativa e harmoniosa com meus colegas durante todas as etapas do projeto.
+> Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
