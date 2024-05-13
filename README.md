@@ -98,7 +98,8 @@ Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma p
 
 > Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
 >
-> ### Em 2022-2
+
+### Em 2022-2
 
 <Div align="justify" >
 
