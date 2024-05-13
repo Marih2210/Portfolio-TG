@@ -135,21 +135,159 @@ O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi des
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas usando HTML, CSS, Bootstrap e Javascript, sendo elas a de Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros, usando Javascript e por fim a parte da raspagem, utilizando Python e além disso usamos o Flask do Python para esse proejeto Web. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas, como a de Cdastro de usuários, parceiros e Gerenciamento dos mesmos usando Java Desktop, também auxiliei em algumas questões de conexão e CRUD no Banco de Dados. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
-> Conhecimento considerável e pude aprimorar e desenvolver mais ainda os meus conhecimentos em HTML e CSS, além de aprender a puxar dados em um Select.
+* Desenvolvimento da parte do Sistema Java Desktop 
+> Conhecimento básico, podendo conhecer mais de Java Desktop e como funcionava o desenvolvimento utilizando Netbeans, Eclipse e IntelliJ.
 
 * Controle de versionamento (GIT)  
 > Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
 
-* Raspagem de Dados (Web-Scraping) (Python)  
-> Conhecimento básico, raspagem básica usando Python.
+* Banco de Dados MySQL 
+> Conhecimento considerável para consultas, conexões e criações de tabelas, inserção, etc.
 
 ### Soft skills
 
-> Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
+> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Além disso pude ter contato com um linguagem que não tinha tido anteriormente, abrindo olhares a novas tecnologias e abordagens de programação, além disso executei o papel de Product Owner tendo maior contato com o cliente e repassando dúvidas dos integrantes ao cliente, como considerações do aliente aos membros da equipe, desenvolvi a habilidade organizacional, além da comunicativa por ter uma troca de ideias maior nesse períodoao, promovendo uma colaboração fluente e produtiva.
+
+### Em 2023-1
+
+<Div align="justify" >
+
+> [Link para a API do 3º Semestre](https://github.com/LittleTech10/API--3-ADS)
+
+A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Visiona. O propósito era criar uma aplicação web a fim de gerenciar usuários e exibir suas ações. Os administradores da Visiona poderiam acessar essas ações e verificar o que foi manipulado no sistema. Para isso, era preciso que a aplicação apresentasse todas as ações no sistema para o administador, tais como edições, exclusões lógicas e cadastros. A nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, sendo ele o PostgreSQL.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React 
+  > Utilizamos a biblioteca de interface gráfica React para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi o Wireframe de algumas telas, além do desenvolvimento das mesmas, como a tela dos usuários comuns e administradores, além de componentes e ajustes no layout e confiuração do sistema ao decorrer das sprints, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, React, Node.Js e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Web (React + Node.Js)
+> Possuo conhecimento considerável no framework React e sei linhas de comando e configuração do NodeJS.
+
+* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
+> Possuo conhecimento aceitável, sabendo criar tabelas, fazer consultar e montar esquemas.
+
+* Controle de versionamento (GIT)  
+> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+
+### Soft skills
+
+> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Além disso pude ter contato com um linguagem que havia tido anteriormente bem pouco, que é o typescript e me aprofundei bem mais, abrindo olhares as novas tecnologias e abordagens de programação que o typescript me apresentou, além da fusão que não conhecia anteriormente do React + typescript, que através de comand line desenvolve-se a estrutura da aplicação React Typescript.
+
+### Em 2023-2
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semestre](https://github.com/NicolasPereira06/API--4-ADS)
+
+A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React 
+  > Utilizamos a biblioteca de interface gráfica React para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro, recuperação de senha, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Web (React + Node.Js)
+> Sei fazer com autonomia.
+
+* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
+> Sei fazer com autonomia.
+
+* Deploy de aplicações (Vercel)
+> Sei fazer o básico, funções mais complexas preciso de ajuda.
+
+* Controle de versionamento (Git)  
+> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+
+### Soft skills
+
+* Proatividade 
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no back-end em relação aos demais, portanto tive um índice de proatividade maior.
+
+* Autonomia 
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa, apenas verificava o que estava faltando e realizava.
+
+* Comunicação
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com o integrante e ele começou a colaborar para o bom andamento do grupo.
