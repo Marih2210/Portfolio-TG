@@ -97,3 +97,58 @@ Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma p
 ### Soft skills
 
 > Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
+>
+> ### Em 2022-2
+
+<Div align="justify" >
+
+> [Link para a API do 2º Semetre](https://github.com/LittleTech10/API--2-ADS)
+
+O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa TrackCash. O objetivo do projeto era criar uma aplicação Java desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas ERP, senhas ou tokens fornecidos pelo cliente, com a TrackCash podendo acessar as finanças da instituição cadastrada. Para isso, era preciso que o aplicativo apresentasse um sistema de cadastro com usuário e operador, páginas de cadastro de canais, esendo possível a edição e gerenciamento dos mesmos. Para melhor gerenciamento, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Java com a sua biblioteca de interface gráfica Swing e o Banco de Dados MySQL para gerenciarmos os dados do sistema.
+
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
+  > Utilizamos a linguagem de programação Java para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL 
+  > Utilizamos o MySQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+ </details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas usando HTML, CSS, Bootstrap e Javascript, sendo elas a de Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros, usando Javascript e por fim a parte da raspagem, utilizando Python e além disso usamos o Flask do Python para esse proejeto Web. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
+> Conhecimento considerável e pude aprimorar e desenvolver mais ainda os meus conhecimentos em HTML e CSS, além de aprender a puxar dados em um Select.
+
+* Controle de versionamento (GIT)  
+> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+
+* Raspagem de Dados (Web-Scraping) (Python)  
+> Conhecimento básico, raspagem básica usando Python.
+
+### Soft skills
+
+> Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
