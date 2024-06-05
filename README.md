@@ -79,7 +79,7 @@ O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas usando HTML, CSS, Bootstrap e Javascript, sendo elas a de Listagem de Vagas e Listagem de Cursos, e também fiquei responsável por auxiliar na parte de select para puxar os filtros, usando Javascript e por fim a parte da raspagem, utilizando Python e além disso usamos o Flask do Python para esse proejeto Web. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Desenvolvi o wireframe no Figma e páginas usando HTML, CSS, Bootstrap e JavaScript. Fui responsável por filtros de seleção em JavaScript e raspagem de dados com Python, além de usar Flask e auxiliar na documentação no GitHub.
 
 </Div>
 
@@ -135,7 +135,7 @@ O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi des
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas, como a de Cdastro de usuários, parceiros e Gerenciamento dos mesmos usando Java Desktop, também auxiliei em algumas questões de conexão e CRUD no Banco de Dados. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas, como a de Cadastro de usuários, parceiros e Gerenciamento dos mesmos usando Java Desktop, também auxiliei em algumas questões de conexão e CRUD no Banco de Dados. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
@@ -199,7 +199,7 @@ A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi des
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi o Wireframe de algumas telas, além do desenvolvimento das mesmas, como a tela dos usuários comuns e administradores, além de componentes e ajustes no layout e confiuração do sistema ao decorrer das sprints, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, React, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi o Wireframe de algumas telas, como a tela dos usuários comuns e administradores, auxiliei na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, React, Node.Js e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -224,7 +224,7 @@ Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi o Wireframe de alg
 
 > [Link para a API do 4º Semestre](https://github.com/TechForce-ADS/Greenneat)
 
-A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além do gerenciamento desses usuários. A nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e o Banco de Dados MySQL para gerenciamento de dados.
+A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos e o gerenciamento desses usuários. A nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e o Banco de Dados MySQL para gerenciamento de dados.
 
 </Div>
 
@@ -260,7 +260,7 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi a página de cadastro do parceiro, sistema de login e cadastro, além de alguns ajustes adicionais, para tias funções utilizei o TypeScript com React, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi a página de cadastro do parceiro, sistema de login e cadastro, para tais funções utilizei o TypeScript com React, Node.Js e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -277,7 +277,7 @@ Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi a página de cadas
 
 ### Soft skills
 
-> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Além disso pude aprimorar mais ainda o meu conhecimento em typescript.
+> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, capacidade de gerenciar tarefas de forma eficiente e produtiva e aprimorei mais ainda o meu conhecimento em typescript.
 
 ### Em 2024-1
 
@@ -341,5 +341,5 @@ Neste projeto fiquei responsável pelo desenvolvimento do Wireframe, Front-End e
 
 ### Soft skills
 
-Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Fiz o papel de PO, entrando em contato com o cliente e tirando todas as dúvidas que a equipe teve, apresentando a evolução do Backlog a cada sprint para o mesmo, isso fortaleceu a minha comunicação. Além disso pude aprofundar meus conhecimentos em typescript e ser introduzida ao desenvolvimento Mobile, utilizando React Native e ExpoGO.
+Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo. Fiz o papel de PO, entrando em contato com o cliente e tirando todas as dúvidas que a equipe teve, apresentando a evolução do Backlog a cada sprint para o mesmo, isso fortaleceu a minha comunicação. Além de aprofundar meus conhecimentos em typescript e ser introduzida ao desenvolvimento Mobile, utilizando React Native e ExpoGO.
 
