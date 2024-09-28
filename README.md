@@ -36,13 +36,13 @@ Olá, meu nome é Mariana Veloso de Souza, atualmente vivo em São José dos Cam
 
 </Div>
 
-### Em 2022-1
+### Primeiro Semestre - Em 2022-1
 
 <Div align="justify" >
 
 > [Link para a API do 1º Semetre](https://github.com/LittleTech10/API--1-ADS)
 
-O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um cliente interno, o professor de Laborátorio de Software da Fatec. O objetivo era criar um Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. O código de todo o desenvolvimento do projeto foi armazenado no Github em um repositório próprio para o API. Foram utilizados programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
+O projeto desenvolvido no 1º semestre do curso de Análise e Desenvolvimento de Sistemas contou com a colaboração do professor de Laboratório de Software da Fatec como cliente interno. O objetivo era criar um Sistema Web para catalogar vagas de emprego e cursos de certificação em diversas áreas de atuação. Todo o desenvolvimento foi realizado e documentado no GitHub, utilizando Python, JavaScript, HTML5, CSS3, além de frameworks como Flask e Bootstrap.
 
 </Div>
 
@@ -80,33 +80,33 @@ O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um
 
 <Div align="justify" >
 
-Desenvolvi o wireframe no Figma e páginas usando HTML, CSS, Bootstrap e JavaScript. Fui responsável por filtros de seleção em JavaScript e raspagem de dados com Python, além de usar Flask e auxiliar na documentação no GitHub.
+Atuei como desenvolvedor, sendo responsável pela criação do wireframe no Figma e pelo desenvolvimento das páginas utilizando HTML, CSS, Bootstrap e JavaScript. Também implementei filtros de seleção em JavaScript e conduzi a raspagem de dados com Python, além de colaborar na documentação do projeto no GitHub.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
-> Conhecimento considerável e pude aprimorar e desenvolver mais ainda os meus conhecimentos em HTML e CSS, além de aprender a puxar dados em um Select.
+> Aprimorei meus conhecimentos em HTML e CSS, aprendendo a implementar elementos interativos e responsivos no sistema.
 
 * Controle de versionamento (GIT)  
-> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+> Utilizei o Git para gerenciar versões do projeto, realizando operações como pull, clone, commit e push, garantindo uma colaboração eficiente com a equipe.
 
 * Raspagem de Dados (Web-Scraping) (Python)  
-> Conhecimento básico, raspagem básica usando Python.
+> Desenvolvi habilidades em Python para realizar raspagem de dados, implementando scripts que coletavam informações relevantes sobre vagas e cursos.
 
 ### Soft skills
 
-> Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
+> Durante o projeto, assumi o papel de Scrum Master, onde desenvolvi a habilidade de gerenciar o tempo e as responsabilidades da equipe, garantindo entregas pontuais. Organizei reuniões regulares para alinhamento e definição dos próximos passos, promovendo uma comunicação clara e eficiente. Também demonstrei empatia e paciência ao ajudar colegas com dificuldades, o que resultou em um ambiente colaborativo e produtivo, permitindo que todos cumprissem suas tarefas dentro dos prazos estabelecidos.
 
 
-### Em 2022-2
+### Segundo Semestre - Em 2022-2
 
 <Div align="justify" >
 
 > [Link para a API do 2º Semetre](https://github.com/LittleTech10/API--2-ADS)
 
-O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa TrackCash. O objetivo do projeto era criar uma aplicação Java desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas ERP, senhas ou tokens fornecidos pelo cliente, com a TrackCash podendo acessar as finanças da instituição cadastrada. Para isso, era preciso que o aplicativo apresentasse um sistema de cadastro com usuário e operador, páginas de cadastro de canais, esendo possível a edição e gerenciamento dos mesmos. Para melhor gerenciamento, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Java com a sua biblioteca de interface gráfica Swing e o Banco de Dados MySQL para gerenciarmos os dados do sistema.
+O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa TrackCash. O objetivo do projeto era criar uma aplicação Java desktop para registrar canais de marketplaces, meios de pagamento, plataformas ERP, senhas e tokens fornecidos pelo cliente, permitindo que a TrackCash acessasse as finanças da instituição cadastrada. Para isso, o aplicativo apresentava um sistema de cadastro com usuário e operador, além de páginas de cadastro de canais, possibilitando a edição e gerenciamento dos mesmos. A nossa equipe criou um repositório no GitHub para armazenar o código-fonte desse projeto. Utilizamos a linguagem de programação Java com a biblioteca de interface gráfica Swing e o Banco de Dados MySQL para gerenciar os dados do sistema.
 
 </Div>
 
@@ -136,32 +136,32 @@ O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi des
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento do Wireframe, em que utilizei do Figma para o protótipo das páginas, no Front-End, desenvolvi algumas páginas, como a de Cadastro de usuários, parceiros e Gerenciamento dos mesmos usando Java Desktop, também auxiliei em algumas questões de conexão e CRUD no Banco de Dados. Por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o Figma para criar o protótipo das páginas. No Front-End, desenvolvi a página de cadastro de usuários e parceiros, além de implementar o gerenciamento de dados usando Java Desktop. Também colaborei na conexão com o Banco de Dados, implementando operações CRUD, e ajudei na documentação do projeto no repositório do GitHub.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento da parte do Sistema Java Desktop 
-> Conhecimento básico, podendo conhecer mais de Java Desktop e como funcionava o desenvolvimento utilizando Netbeans, Eclipse e IntelliJ.
+> Ganhei experiência prática no desenvolvimento de aplicações usando Java, explorando IDEs como NetBeans e IntelliJ. Aprendi a criar interfaces gráficas com Swing e a integrar funcionalidades no sistema.
 
 * Controle de versionamento (GIT)  
-> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+> Apliquei conhecimentos em Git para gerenciar versões do projeto, realizando operações de commit, push e pull, facilitando a colaboração com os membros da equipe.
 
 * Banco de Dados MySQL 
-> Conhecimento considerável para consultas, conexões e criações de tabelas, inserção, etc.
+> Desenvolvi habilidades em consultas SQL, conexões de banco de dados, criação de tabelas e manipulação de dados, garantindo a integridade e a eficiência do sistema de armazenamento.
 
 ### Soft skills
 
-> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Além disso pude ter contato com um linguagem que não tinha tido anteriormente, abrindo olhares a novas tecnologias e abordagens de programação, além disso executei o papel de Product Owner tendo maior contato com o cliente e repassando dúvidas dos integrantes ao cliente, como considerações do aliente aos membros da equipe, desenvolvi a habilidade organizacional, além da comunicativa por ter uma troca de ideias maior nesse períodoao, promovendo uma colaboração fluente e produtiva.
+> Durante o desenvolvimento do projeto, participei ativamente da organização das sprints e da distribuição de tarefas no backlog, melhorando meu gerenciamento de tempo e capacidade de cumprir prazos. Assumi o papel de Product Owner, interagindo diretamente com o cliente para esclarecer dúvidas e repassar feedbacks para a equipe, o que aprimorou minha habilidade de comunicação e colaboração. Além disso, a experiência em um novo ambiente de desenvolvimento me proporcionou uma visão mais ampla sobre tecnologias e metodologias ágeis, aumentando minha adaptabilidade e eficácia no trabalho em equipe.
 
-### Em 2023-1
+### Terceiro Semestre - Em 2023-1
 
 <Div align="justify" >
 
 > [Link para a API do 3º Semestre](https://github.com/LittleTech10/API--3-ADS)
 
-A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Visiona. O propósito era criar uma aplicação web a fim de gerenciar usuários e exibir suas ações. Os administradores da Visiona poderiam acessar essas ações e verificar o que foi manipulado no sistema. Para isso, era preciso que a aplicação apresentasse todas as ações no sistema para o administador, tais como edições, exclusões lógicas e cadastros. A nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, sendo ele o PostgreSQL.
+A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Visiona. O propósito do projeto foi criar uma aplicação web para gerenciar usuários e exibir suas ações. Os administradores da Visiona poderiam acessar essas informações e verificar as manipulações realizadas no sistema. Para isso, a aplicação precisava apresentar todas as ações no sistema para os administradores, incluindo edições, exclusões lógicas e cadastros. Nossa equipe criou um repositório no GitHub para armazenar o código-fonte do projeto. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica React, um servidor Back-End em Node.js e o Banco de Dados PostgreSQL para gerenciar os dados.
 
 </Div>
 
@@ -200,32 +200,32 @@ A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi des
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi o Wireframe de algumas telas, como a tela dos usuários comuns e administradores, auxiliei na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, React, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wireframe de telas, como as interfaces de usuários comuns e administradores. Também auxiliei na configuração do repositório do GitHub da equipe. Para realizar essas funções, utilizei TypeScript, React, Node.js e a ferramenta de versionamento Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Web (React + Node.Js)
-> Possuo conhecimento considerável no framework React e sei linhas de comando e configuração do NodeJS.
+> Adquiri um conhecimento sólido na utilização do React para construir interfaces dinâmicas e na configuração do servidor Node.js, permitindo a comunicação entre o Front-End e o Back-End.
 
-* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
-> Possuo conhecimento aceitável, sabendo criar tabelas, fazer consultar e montar esquemas.
+* Gerenciamento de Banco de Dados (PostgreSQL)
+> Desenvolvi habilidades práticas em criação de tabelas, consultas complexas e montagem de esquemas, otimizando o armazenamento e a recuperação de dados.
 
 * Controle de versionamento (GIT)  
-> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+> Apliquei conhecimentos em Git para gerenciar o código do projeto, realizando operações de commit, push e pull, garantindo a organização e colaboração efetiva entre os membros da equipe.
 
 ### Soft skills
 
-> c
+> Durante o desenvolvimento do projeto, colaborei estreitamente com a equipe na organização das tarefas e no planejamento do projeto. Isso melhorou minha capacidade de trabalhar em equipe e de comunicação, uma vez que discutimos e resolvemos problemas em conjunto. Assumir responsabilidades no desenvolvimento das interfaces me permitiu aprimorar minha criatividade e pensamento crítico, além de aprender a adaptar o design das telas com base no feedback da equipe e do cliente. A experiência me proporcionou uma visão mais ampla sobre metodologias ágeis e a importância da iteração no desenvolvimento de software.
 
-### Em 2023-2
+### Quarto Semestre - Em 2023-2
 
 <Div align="justify" >
 
 > [Link para a API do 4º Semestre](https://github.com/TechForce-ADS/Greenneat)
 
-A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos e o gerenciamento desses usuários. A nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e o Banco de Dados MySQL para gerenciamento de dados.
+A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Greenneat. O objetivo deste projeto foi criar uma aplicação web para gerenciar usuários e seus créditos, que são utilizados como moeda de troca em transações de óleo usado, oferecendo benefícios e descontos na loja virtual da Greenneat. A aplicação precisava apresentar um sistema que exibisse todas as transações de créditos do sistema para o administrador, incluindo compras e vendas de produtos, além do gerenciamento desses usuários. Nossa equipe criou um repositório no GitHub para armazenar o código-fonte do projeto. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica React, um servidor Back-End em Node.js e o Banco de Dados MySQL para gerenciar os dados.
 
 </Div>
 
@@ -261,32 +261,32 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End. Desenvolvi a página de cadastro do parceiro, sistema de login e cadastro, para tais funções utilizei o TypeScript com React, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto, fui responsável pelo desenvolvimento do Front-End. Desenvolvi a página de cadastro de parceiros, além do sistema de login e cadastro. Para essas funções, utilizei TypeScript, React, Node.js e a ferramenta de versionamento Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Web (React + Node.Js)
-> Sei fazer com autonomia e possuo conhecimento considerável no Framework React, além de comando em NodeJS.
+> Possuo conhecimento considerável no framework React e sou capaz de desenvolver aplicações com autonomia, incluindo configuração e integração com o Node.js.
 
 * Utilização de um SGBD e bancos relacionais de dados. (MySQL)
-> Sei fazer com autonomia, realizar, consultas, operações, criações de tabelas, etc.
+> Tenho autonomia para realizar operações como consultas, criação de tabelas e manipulação de dados em um sistema de gerenciamento de banco de dados relacional.
 
 * Controle de versionamento (Git)  
-> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
+> Conhecimento sólido em Git, com habilidades para gerenciar o código do projeto, realizando operações de commit, push e pull de forma eficiente.
 
 ### Soft skills
 
-> Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, capacidade de gerenciar tarefas de forma eficiente e produtiva e aprimorei mais ainda o meu conhecimento em typescript.
+> Durante o projeto, trabalhei em um ambiente de equipe onde as tarefas foram atribuídas por meio de sprints, conforme o backlog do produto. Isso me permitiu aprimorar minha gestão do tempo e minha capacidade de cumprir prazos, além de gerenciar tarefas de forma produtiva. Essa experiência também contribuiu para o fortalecimento do meu conhecimento em TypeScript e melhorou minha habilidade de colaboração em equipe.
 
-### Em 2024-1
+### Quinto Semestre - Em 2024-1
 
 <Div align="justify" >
 
 > [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
 
-A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Oracle. Seu propósito consistia em criar uma aplicação mobile a fim de gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os seus parceiro cadastrados no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todos os parceiros cadastrados, as trilhas e expertises que esses parceiros estavam vinculados, a progressão dos parceiros e um sistema de gerenciamento dos mesmos com diferentes níveis de acesso por parte do administrador. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica para mobile React Native, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL e o MongoDB.
+A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Oracle. O objetivo deste projeto foi criar uma aplicação mobile para gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os parceiros cadastrados no sistema. A aplicação precisava exibir todos os parceiros cadastrados, as trilhas e expertises vinculadas, a progressão dos parceiros e um sistema de gerenciamento com diferentes níveis de acesso para o administrador. Para a realização desse projeto, nossa equipe criou um repositório no GitHub para armazenar o código-fonte. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica mobile React Native, um servidor Back-End em Node.js e um Banco de Dados SQL, utilizando PostgreSQL e MongoDB para o gerenciamento de dados.
 
 </Div>
 
@@ -325,22 +325,24 @@ A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pelo desenvolvimento do Wireframe, Front-End e o desenvolvimento do Manual do Usuário. Desenvolvi algumas páginas em React Native utilizando o ExpoGo, fiz a correção de alguns bugs presentes no código e auxiliei os integrantes nas partes em que ficaram confusos. Fiz o papel de PO, entrando em contato com o cliente e tirando todas as dúvidas que a equipe teve, apresentando a evolução do Backlog a cada sprint para o mesmo, auxiliei também na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js, ferramenta de versionamento de código Git e o ExpoGO com React Native.
+Neste projeto, fui responsável pelo desenvolvimento do Wireframe e do Front-End, além de elaborar o Manual do Usuário. Criei várias páginas em React Native utilizando o ExpoGo, garantindo que as interfaces fossem intuitivas e responsivas. Além disso, trabalhei na correção de bugs no código e auxiliei os membros da equipe nas partes que apresentavam dificuldades, promovendo um ambiente colaborativo.
+
+Como Product Owner (PO), mantive uma comunicação constante com o cliente, esclarecendo dúvidas e apresentando a evolução do Backlog em cada sprint, o que garantiu que as expectativas do cliente fossem atendidas. Também auxiliei na organização do repositório GitHub da equipe, otimizando o fluxo de trabalho e o versionamento do código.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Mobile (React Native + Node.Js)
-> Sei fazer com autonomia.
+> Desenvolvi experiência prática em desenvolver aplicações móveis com React Native e desenvolvi proficiência em implementar funcionalidades complexas no Front-End e Back-End utilizando Node.js.
 
 * Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
-> Sei o básico de consultas e montagens.
+> Possuo conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em bancos relacionais (PostgreSQL), aplicando-os efetivamente no projeto.
 
 * Controle de versionamento (Git)  
-> Sei fazer com autonomia.
+> Tenho habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e execução de pull requests, garantindo um fluxo de trabalho organizado e colaborativo.
 
 ### Soft skills
 
-Foram atribuídas tarefas por sprint para cada um dos integrantes do grupo no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo. Fiz o papel de PO, entrando em contato com o cliente e tirando todas as dúvidas que a equipe teve, apresentando a evolução do Backlog a cada sprint para o mesmo, isso fortaleceu a minha comunicação. Além de aprofundar meus conhecimentos em typescript e ser introduzida ao desenvolvimento Mobile, utilizando React Native e ExpoGO.
+Durante o projeto, trabalhei em um ambiente ágil, onde as tarefas eram atribuídas por sprint. Isso me ajudou a aprimorar minha gestão do tempo e a cumprir prazos de forma eficiente. Como PO, a interação com o cliente fortaleceu minhas habilidades de comunicação e me ensinou a interpretar e traduzir requisitos técnicos em soluções práticas. A experiência em manter um Backlog atualizado e a colaboração constante com a equipe também melhoraram minha capacidade de trabalhar em equipe e liderar projetos, permitindo que eu aprofundasse meus conhecimentos em TypeScript e me introduzisse ao desenvolvimento mobile com React Native e ExpoGo.
 
