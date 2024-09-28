@@ -35,70 +35,65 @@ Olá, meu nome é Mariana Veloso de Souza, atualmente vivo em São José dos Cam
 ## Projetos
 
 </Div>
+Em 2022-1
+<Div align="justify">
+Link para a API do 1º Semestre
 
-### Em 2022-1
-
-<Div align="justify" >
-
-> [Link para a API do 1º Semetre](https://github.com/LittleTech10/API--1-ADS)
-
-O API do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas teve um cliente interno, o professor de Laborátorio de Software da Fatec. O objetivo era criar um Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. O código de todo o desenvolvimento do projeto foi armazenado no Github em um repositório próprio para o API. Foram utilizados programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
+O projeto desenvolvido no 1º semestre do curso de Análise e Desenvolvimento de Sistemas contou com a colaboração do professor de Laboratório de Software da Fatec como cliente interno. O objetivo era criar um Sistema Web para catalogar vagas de emprego e cursos de certificação em diversas áreas de atuação. Todo o desenvolvimento foi realizado e documentado no GitHub, utilizando Python, JavaScript, HTML5, CSS3, além de frameworks como Flask e Bootstrap.
 
 </Div>
+Tecnologias utilizadas
+<details><summary>Tecnologias</summary>
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
 
-### Tecnologias utilizadas
+Utilizado para desenvolver o protótipo apresentado ao cliente.
 
- <details><summary>Tecnologias</summary>
-   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura do catálogo de vagas.
+Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código-fonte, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+Utilizado para a criação da estrutura do catálogo de vagas.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para a raspagem de dados (Web-Scraping) das vagas de emprego e dos cursos pela internet, como por exemplo o Banco Nacional de Empregos.
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript 
-  > Utilizamos o JavaScript para criar gráficos que mostrassem dados sobre as vagas catalogadas em nosso site.
- </details>
- 
+Utilizado para estilizar as páginas, aprimorando a apresentação visual.
 
-### Contribuições
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git
 
-<Div align="justify" >
+Utilizado para gerenciar e controlar as versões do código-fonte.
 
-Desenvolvi o wireframe no Figma e páginas usando HTML, CSS, Bootstrap e JavaScript. Fui responsável por filtros de seleção em JavaScript e raspagem de dados com Python, além de usar Flask e auxiliar na documentação no GitHub.
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GitHub
+
+Utilizado para a hospedagem do código-fonte, facilitando a colaboração.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+
+Utilizado para raspagem de dados (Web-Scraping) das vagas de emprego e cursos.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
+
+Utilizado para criar gráficos com dados das vagas catalogadas no site.
+
+</details>
+Contribuições
+<Div align="justify">
+Atuei como desenvolvedor, sendo responsável pela criação do wireframe no Figma e pelo desenvolvimento das páginas utilizando HTML, CSS, Bootstrap e JavaScript. Também implementei filtros de seleção em JavaScript e conduzi a raspagem de dados com Python, além de colaborar na documentação do projeto no GitHub.
 
 </Div>
+Hard skills
+Desenvolvimento Web (HTML5, CSS3, JavaScript)
+Aprimorei meus conhecimentos em HTML e CSS, aprendendo a implementar elementos interativos e responsivos no sistema.
 
-### Hard skills
+Controle de Versionamento (Git)
+Utilizei o Git para gerenciar versões do projeto, realizando operações como pull, clone, commit e push, garantindo uma colaboração eficiente com a equipe.
 
-* Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
-> Conhecimento considerável e pude aprimorar e desenvolver mais ainda os meus conhecimentos em HTML e CSS, além de aprender a puxar dados em um Select.
+Raspagem de Dados (Web-Scraping com Python)
+Desenvolvi habilidades em Python para realizar raspagem de dados, implementando scripts que coletavam informações relevantes sobre vagas e cursos.
 
-* Controle de versionamento (GIT)  
-> Conhecimento considerável para puxar, clonar, salvar dados temporários, commitar e subir por linha de código no git.
-
-* Raspagem de Dados (Web-Scraping) (Python)  
-> Conhecimento básico, raspagem básica usando Python.
-
-### Soft skills
-
-> Para cada sprint foram atribuídas tarefas por sprint para cada integrante no backlog do produto, com base nessas atividades desenvolvi de acordo com o tempo estipulado as tarefas atribuídas à mim, tendo um melhor desempenho em relação à gerenciamento de tempo, entregas dentro do prazo, além de desenvolver a capacidade de gerenciar tarefas de forma eficiente e produtiva. Pude fazer o papel de Scrum Master fazendo o controle de distribuição de tempo e desenvolvendo a habilidade organizacional ao distribuir responsabilidades entre os membros da equipe, além da realização de reuniões rotineiras, definindo os próximos passos de maneira clara e alinhamentos frequentes, promovendo uma colaboração fluente e produtiva.
->
+Soft skills
+Durante o projeto, assumi o papel de Scrum Master, onde desenvolvi a habilidade de gerenciar o tempo e as responsabilidades da equipe, garantindo entregas pontuais. Organizei reuniões regulares para alinhamento e definição dos próximos passos, promovendo uma comunicação clara e eficiente. Também demonstrei empatia e paciência ao ajudar colegas com dificuldades, o que resultou em um ambiente colaborativo e produtivo, permitindo que todos cumprissem suas tarefas dentro dos prazos estabelecidos.
 
 ### Em 2022-2
 
