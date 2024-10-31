@@ -9,6 +9,7 @@
 <img align="right" src="imagens/perfil.jpg" alt="Foto" width="200"/>
 
 Olá, meu nome é Mariana Veloso de Souza, atualmente vivo em São José dos Campos e curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos, o foco do curso se baseia no desenvolvimento pessoal do aluno nas áreas de programação, desenvolvimento, manutenção de sistemas e aplicação do método SCRUM. Minha introdução na área da tecnologia, foi no Ensino Médio, cursava Automação Industrial integrado ao Ensino Médio, lá tive contato com Elétrica, Eletrônica, Pneumática, Programação, desenvolvi atividades e projetos em Python, C++, C#, sendo elas desde um Cubo de Led, um jogo em Python, um Sistema eletrônico de led e um Sistema chamado SOS Deslizamentos, projeto que visava mitigar futuros deslizamentos em áreas de risco, controlado através de Sensores de umidade, Leds e Buzzer sonoros. No final do Ensino Médio me inscrevi para a Fatec de São José dos Campos e fui aprovada e desde então mantenho o desenvolvimento e aprimoramento dos meus conhecimentos em TI.
+Atualmente atuo como estagiária de desenvolvimento na empresa Optimus GIS LTDA, com início da carreira em julho de 2023, trabalho com atividades mais voltadas ao Front End, com React, Angular, Vue, além das linguagens JavaScript, TypeScript e C#.
 </Div>
 
 <Div align="center" >
@@ -42,7 +43,11 @@ Olá, meu nome é Mariana Veloso de Souza, atualmente vivo em São José dos Cam
 
 > [Link para a API do 1º Semetre](https://github.com/LittleTech10/API--1-ADS)
 
-O projeto desenvolvido no 1º semestre do curso de Análise e Desenvolvimento de Sistemas contou com a colaboração do professor de Laboratório de Software da Fatec como cliente interno. O objetivo era criar um Sistema Web para catalogar vagas de emprego e cursos de certificação em diversas áreas de atuação. Todo o desenvolvimento foi realizado e documentado no GitHub, utilizando Python, JavaScript, HTML5, CSS3, além de frameworks como Flask e Bootstrap.
+### Problema
+O projeto de Aprendizagem por Projetos Integrados do 1º semestre do curso de Análise e Desenvolvimento de Sistemas foi idealizado em resposta a uma demanda do professor Antônio Egydio São Thiago Graça, da Fatec de São José dos Campos. O problema central consistia na ausência de uma plataforma que facilitasse a catalogação de oportunidades de emprego e cursos de certificação em diversas áreas de atuação. A falta de centralização dessas informações dificultava que alunos e profissionais encontrassem oportunidades de forma rápida e eficiente.
+
+### Solução
+Para atender a essa necessidade, desenvolvemos um sistema web que permitisse o armazenamento e a consulta dessas vagas de emprego e cursos. O projeto foi estruturado em um repositório no GitHub, onde o código-fonte foi mantido e versionado para facilitar a colaboração. Utilizamos Python e JavaScript para a lógica de programação, enquanto HTML5 e CSS3 foram a base do front-end. Os frameworks Flask e Bootstrap foram integrados para criar uma interface responsiva e intuitiva, garantindo uma navegação simplificada e acessível para os usuários.
 
 </Div>
 
@@ -80,24 +85,37 @@ O projeto desenvolvido no 1º semestre do curso de Análise e Desenvolvimento de
 
 <Div align="justify" >
 
-Atuei como desenvolvedor, sendo responsável pela criação do wireframe no Figma e pelo desenvolvimento das páginas utilizando HTML, CSS, Bootstrap e JavaScript. Também implementei filtros de seleção em JavaScript e conduzi a raspagem de dados com Python, além de colaborar na documentação do projeto no GitHub.
+Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto para o back-end do sistema. Fiquei responsável por desenvolver o wireframe do projeto no Figma, páginas como o Catálogo de Vagas e a página de Métricas, além de implementar filtros de seleção com JavaScript. Também criei scripts de raspagem de dados em Python e colaborei na documentação do projeto no GitHub. Todo o trabalho foi feito com HTML5, CSS3, JavaScript e Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
-> Aprimorei meus conhecimentos em HTML e CSS, aprendendo a implementar elementos interativos e responsivos no sistema.
+> Nível: Autônomo. Desenvolvi o layout e a responsividade de páginas com estruturações interativas e responsivas.
 
 * Controle de versionamento (GIT)  
-> Utilizei o Git para gerenciar versões do projeto, realizando operações como pull, clone, commit e push, garantindo uma colaboração eficiente com a equipe.
+> Nível: Autônomo. Realizei operações de versionamento como pull, clone, commit e push.
 
 * Raspagem de Dados (Web-Scraping) (Python)  
-> Desenvolvi habilidades em Python para realizar raspagem de dados, implementando scripts que coletavam informações relevantes sobre vagas e cursos.
+> Nível: Intermediário (com ajuda). Aprimorei habilidades para coletar dados de fontes online.
 
 ### Soft skills
 
-> Durante o projeto, assumi o papel de Scrum Master, onde desenvolvi a habilidade de gerenciar o tempo e as responsabilidades da equipe, garantindo entregas pontuais. Organizei reuniões regulares para alinhamento e definição dos próximos passos, promovendo uma comunicação clara e eficiente. Também demonstrei empatia e paciência ao ajudar colegas com dificuldades, o que resultou em um ambiente colaborativo e produtivo, permitindo que todos cumprissem suas tarefas dentro dos prazos estabelecidos.
+> Colaboração
+Alcancei essa habilidade ao ajudar colegas com dificuldades na implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
+
+> Organização
+Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
+
+> Comunicação
+Melhorei minha comunicação ao sugerir e conduzir reuniões frequentes online para alinhamento. Esse diálogo constante foi essencial para o progresso do projeto.
+
+> Autonomia
+Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
+
+> Trabalho em equipe
+Colaborei efetivamente ao revisar código com os colegas, discutindo melhorias e garantindo a qualidade e coesão do projeto final.
 
 
 ### Segundo Semestre - Em 2022-2
@@ -106,7 +124,11 @@ Atuei como desenvolvedor, sendo responsável pela criação do wireframe no Figm
 
 > [Link para a API do 2º Semetre](https://github.com/LittleTech10/API--2-ADS)
 
-O API do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa TrackCash. O objetivo do projeto era criar uma aplicação Java desktop para registrar canais de marketplaces, meios de pagamento, plataformas ERP, senhas e tokens fornecidos pelo cliente, permitindo que a TrackCash acessasse as finanças da instituição cadastrada. Para isso, o aplicativo apresentava um sistema de cadastro com usuário e operador, além de páginas de cadastro de canais, possibilitando a edição e gerenciamento dos mesmos. A nossa equipe criou um repositório no GitHub para armazenar o código-fonte desse projeto. Utilizamos a linguagem de programação Java com a biblioteca de interface gráfica Swing e o Banco de Dados MySQL para gerenciar os dados do sistema.
+### Problema
+No 2º semestre do curso de Análise e Desenvolvimento de Sistemas, a necessidade foi identificada em conjunto com a empresa TrackCash, uma empresa do setor financeiro especializada em controle de gastos. O projeto visava criar uma aplicação desktop em Java para o gerenciamento de dados sensíveis, como canais de marketplaces, métodos de pagamento, plataformas ERP, senhas e tokens. Este sistema permitiria à TrackCash acessar as informações financeiras da instituição cadastrada de forma segura e organizada.
+
+### Solução
+Desenvolvemos uma aplicação desktop com Java para registrar e gerenciar canais, operadores e usuários, integrando funcionalidades de edição e controle de acesso a dados. O código-fonte foi hospedado em um repositório GitHub para facilitar a organização e o versionamento. Utilizamos Java com a biblioteca Swing para o desenvolvimento de interfaces gráficas e MySQL para o gerenciamento de dados, proporcionando uma solução robusta e intuitiva para o cliente.
 
 </Div>
 
