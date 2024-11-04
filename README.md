@@ -102,19 +102,19 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 
 ### Soft skills
 
-> Colaboração
+* Colaboração
 Alcancei essa habilidade ao ajudar colegas com dificuldades na implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
 
-> Organização
+* Organização
 Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
 
-> Comunicação
+* Comunicação
 Melhorei minha comunicação ao sugerir e conduzir reuniões frequentes online para alinhamento. Esse diálogo constante foi essencial para o progresso do projeto.
 
-> Autonomia
+* Autonomia
 Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
 
-> Trabalho em equipe
+* Trabalho em equipe
 Colaborei efetivamente ao revisar código com os colegas, discutindo melhorias e garantindo a qualidade e coesão do projeto final.
 
 
@@ -175,7 +175,17 @@ Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o 
 
 ### Soft skills
 
-> Durante o desenvolvimento do projeto, participei ativamente da organização das sprints e da distribuição de tarefas no backlog, melhorando meu gerenciamento de tempo e capacidade de cumprir prazos. Assumi o papel de Product Owner, interagindo diretamente com o cliente para esclarecer dúvidas e repassar feedbacks para a equipe, o que aprimorou minha habilidade de comunicação e colaboração. Além disso, a experiência em um novo ambiente de desenvolvimento me proporcionou uma visão mais ampla sobre tecnologias e metodologias ágeis, aumentando minha adaptabilidade e eficácia no trabalho em equipe.
+* Organização e gerenciamento de tempo
+Participei ativamente da organização das sprints e da definição das tarefas no backlog. Essa experiência aprimorou minha capacidade de gerenciar tempo e de cumprir prazos com eficácia.
+
+* Liderança e comunicação com o cliente
+Atuei como Product Owner, sendo responsável por manter uma comunicação clara com o cliente. Esclareci dúvidas e repassei feedbacks para a equipe, o que aprimorou minhas habilidades de liderança e comunicação.
+
+* Trabalho em equipe e colaboração
+Interagi de forma colaborativa com os membros do time, garantindo que todos estivessem alinhados com as metas do projeto. Essa experiência reforçou minha capacidade de trabalhar bem em equipe.
+
+* Adaptabilidade em ambientes ágeis
+Ao atuar em um novo ambiente de desenvolvimento e com metodologias ágeis, ampliei minha adaptabilidade e aprendi a integrar novas tecnologias e práticas de forma eficaz no trabalho em equipe.
 
 ### Terceiro Semestre - Em 2023-1
 
