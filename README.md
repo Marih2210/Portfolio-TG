@@ -103,19 +103,19 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 ### Soft skills
 
 * Colaboração
-Alcancei essa habilidade ao ajudar colegas com dificuldades na implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
+> Alcancei essa habilidade ao ajudar colegas com dificuldades na implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
 
 * Organização
-Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
+> Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
 
 * Comunicação
-Melhorei minha comunicação ao sugerir e conduzir reuniões frequentes online para alinhamento. Esse diálogo constante foi essencial para o progresso do projeto.
+> Melhorei minha comunicação ao sugerir e conduzir reuniões frequentes online para alinhamento. Esse diálogo constante foi essencial para o progresso do projeto.
 
 * Autonomia
-Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
+> Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
 
 * Trabalho em equipe
-Colaborei efetivamente ao revisar código com os colegas, discutindo melhorias e garantindo a qualidade e coesão do projeto final.
+> Colaborei efetivamente ao revisar código com os colegas, discutindo melhorias e garantindo a qualidade e coesão do projeto final.
 
 
 ### Segundo Semestre - Em 2022-2
@@ -176,16 +176,16 @@ Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-Participei ativamente da organização das sprints e da definição das tarefas no backlog. Essa experiência aprimorou minha capacidade de gerenciar tempo e de cumprir prazos com eficácia.
+> Participei ativamente da organização das sprints e da definição das tarefas no backlog. Essa experiência aprimorou minha capacidade de gerenciar tempo e de cumprir prazos com eficácia.
 
 * Liderança e comunicação com o cliente
-Atuei como Product Owner, sendo responsável por manter uma comunicação clara com o cliente. Esclareci dúvidas e repassei feedbacks para a equipe, o que aprimorou minhas habilidades de liderança e comunicação.
+> Atuei como Product Owner, sendo responsável por manter uma comunicação clara com o cliente. Esclareci dúvidas e repassei feedbacks para a equipe, o que aprimorou minhas habilidades de liderança e comunicação.
 
 * Trabalho em equipe e colaboração
-Interagi de forma colaborativa com os membros do time, garantindo que todos estivessem alinhados com as metas do projeto. Essa experiência reforçou minha capacidade de trabalhar bem em equipe.
+> Interagi de forma colaborativa com os membros do time, garantindo que todos estivessem alinhados com as metas do projeto. Essa experiência reforçou minha capacidade de trabalhar bem em equipe.
 
 * Adaptabilidade em ambientes ágeis
-Ao atuar em um novo ambiente de desenvolvimento e com metodologias ágeis, ampliei minha adaptabilidade e aprendi a integrar novas tecnologias e práticas de forma eficaz no trabalho em equipe.
+> Ao atuar em um novo ambiente de desenvolvimento e com metodologias ágeis, ampliei minha adaptabilidade e aprendi a integrar novas tecnologias e práticas de forma eficaz no trabalho em equipe.
 
 ### Terceiro Semestre - Em 2023-1
 
@@ -193,7 +193,11 @@ Ao atuar em um novo ambiente de desenvolvimento e com metodologias ágeis, ampli
 
 > [Link para a API do 3º Semestre](https://github.com/LittleTech10/API--3-ADS)
 
-A API do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Visiona. O propósito do projeto foi criar uma aplicação web para gerenciar usuários e exibir suas ações. Os administradores da Visiona poderiam acessar essas informações e verificar as manipulações realizadas no sistema. Para isso, a aplicação precisava apresentar todas as ações no sistema para os administradores, incluindo edições, exclusões lógicas e cadastros. Nossa equipe criou um repositório no GitHub para armazenar o código-fonte do projeto. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica React, um servidor Back-End em Node.js e o Banco de Dados PostgreSQL para gerenciar os dados.
+### Problema
+No 3º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Visiona Tecnologia Espacial, uma empresa de integração de sistemas espaciais e prestação de serviços baseados em satélites, foi identificado o desafio de desenvolver uma aplicação web para gerenciamento e monitoramento de ações de usuários. A empresa necessitava de um sistema que permitisse aos administradores acessarem, visualizarem e acompanharem as manipulações realizadas pelos usuários no sistema, incluindo edições, exclusões lógicas e cadastros.
+
+### Solução
+Desenvolvemos uma aplicação web com um Front-End em React e um Back-End em Node.js, utilizando PostgreSQL para o gerenciamento de dados. A aplicação proporciona uma visão clara e detalhada das ações de usuários para os administradores da Visiona, permitindo o controle completo das operações realizadas no sistema. O código-fonte foi armazenado em um repositório no GitHub para facilitar o versionamento e a colaboração.
 
 </Div>
 
@@ -239,17 +243,27 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 ### Hard skills
 
 * Desenvolvimento Web (React + Node.Js)
-> Adquiri um conhecimento sólido na utilização do React para construir interfaces dinâmicas e na configuração do servidor Node.js, permitindo a comunicação entre o Front-End e o Back-End.
+> Desenvolvi um conhecimento sólido no uso de React para criar interfaces dinâmicas, assim como na configuração do servidor Node.js para facilitar a comunicação entre o Front-End e o Back-End.
 
 * Gerenciamento de Banco de Dados (PostgreSQL)
-> Desenvolvi habilidades práticas em criação de tabelas, consultas complexas e montagem de esquemas, otimizando o armazenamento e a recuperação de dados.
+> Aprimorei habilidades em criação de tabelas, consultas complexas e montagem de esquemas, otimizando o armazenamento e recuperação de dados no sistema.
 
 * Controle de versionamento (GIT)  
-> Apliquei conhecimentos em Git para gerenciar o código do projeto, realizando operações de commit, push e pull, garantindo a organização e colaboração efetiva entre os membros da equipe.
+> Apliquei conhecimentos em Git para gerenciar o código do projeto, organizando commits, push e pull, e garantindo a colaboração eficaz entre os membros da equipe.
 
 ### Soft skills
 
-> Durante o desenvolvimento do projeto, colaborei estreitamente com a equipe na organização das tarefas e no planejamento do projeto. Isso melhorou minha capacidade de trabalhar em equipe e de comunicação, uma vez que discutimos e resolvemos problemas em conjunto. Assumir responsabilidades no desenvolvimento das interfaces me permitiu aprimorar minha criatividade e pensamento crítico, além de aprender a adaptar o design das telas com base no feedback da equipe e do cliente. A experiência me proporcionou uma visão mais ampla sobre metodologias ágeis e a importância da iteração no desenvolvimento de software.
+* Organização e gerenciamento de tempo
+> Colaborei na organização das sprints e definição de tarefas, aprimorando minhas habilidades de gerenciamento de tempo e cumprimento de prazos.
+
+* Trabalho em equipe e comunicação
+Durante o projeto, mantive uma comunicação clara e colaborativa com a equipe, o que aprimorou minha capacidade de trabalhar em grupo e resolver problemas em conjunto.
+
+* Adaptabilidade e feedback
+> A experiência me ensinou a integrar feedback de clientes e a adaptar o design das telas, reforçando minha flexibilidade e capacidade de iteração em um ambiente ágil.
+
+* Liderança e comprometimento
+> Assumir responsabilidades no desenvolvimento das interfaces aprimorou minha capacidade de liderança e compromisso com a entrega de soluções de qualidade.
 
 ### Quarto Semestre - Em 2023-2
 
