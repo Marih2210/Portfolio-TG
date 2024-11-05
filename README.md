@@ -257,7 +257,7 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 > Colaborei na organização das sprints e definição de tarefas, aprimorando minhas habilidades de gerenciamento de tempo e cumprimento de prazos.
 
 * Trabalho em equipe e comunicação
-Durante o projeto, mantive uma comunicação clara e colaborativa com a equipe, o que aprimorou minha capacidade de trabalhar em grupo e resolver problemas em conjunto.
+> Durante o projeto, mantive uma comunicação clara e colaborativa com a equipe, o que aprimorou minha capacidade de trabalhar em grupo e resolver problemas em conjunto.
 
 * Adaptabilidade e feedback
 > A experiência me ensinou a integrar feedback de clientes e a adaptar o design das telas, reforçando minha flexibilidade e capacidade de iteração em um ambiente ágil.
@@ -271,7 +271,11 @@ Durante o projeto, mantive uma comunicação clara e colaborativa com a equipe, 
 
 > [Link para a API do 4º Semestre](https://github.com/TechForce-ADS/Greenneat)
 
-A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Greenneat. O objetivo deste projeto foi criar uma aplicação web para gerenciar usuários e seus créditos, que são utilizados como moeda de troca em transações de óleo usado, oferecendo benefícios e descontos na loja virtual da Greenneat. A aplicação precisava apresentar um sistema que exibisse todas as transações de créditos do sistema para o administrador, incluindo compras e vendas de produtos, além do gerenciamento desses usuários. Nossa equipe criou um repositório no GitHub para armazenar o código-fonte do projeto. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica React, um servidor Back-End em Node.js e o Banco de Dados MySQL para gerenciar os dados.
+### Problema
+No 4º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Greenneat, uma empresa de produtos de limpeza sustentável, natural, plant-based e ecológica, a demanda central tinha como objetivo desenvolver uma aplicação web para gerenciar usuários e créditos utilizados como moeda de troca em transações de óleo usado. Esse sistema possibilitaria que a Greenneat oferecesse benefícios e descontos em sua loja virtual, exibindo todas as transações de créditos para o administrador, incluindo compras, vendas de produtos e o gerenciamento de usuários.
+
+### Solução
+Desenvolvemos uma aplicação web completa, integrando um front-end em React e TypeScript, e um back-end em Node.js, conectados a um banco de dados MySQL. O sistema permite o registro e a administração de usuários e suas transações, incluindo uma interface para o administrador visualizar todas as movimentações de créditos no sistema. O código-fonte foi versionado no GitHub, garantindo organização e controle das iterações no desenvolvimento.
 
 </Div>
 
@@ -307,24 +311,31 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto, fui responsável pelo desenvolvimento do Front-End. Desenvolvi a página de cadastro de parceiros, além do sistema de login e cadastro. Para essas funções, utilizei TypeScript, React, Node.js e a ferramenta de versionamento Git.
+Neste projeto, Fui responsável pelo desenvolvimento do front-end, incluindo as páginas de cadastro de parceiros, sistema de login e cadastro de usuários. Utilizei TypeScript, React e Node.js, e gerenciei o versionamento com Git para garantir organização e controle no desenvolvimento.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Web (React + Node.Js)
-> Possuo conhecimento considerável no framework React e sou capaz de desenvolver aplicações com autonomia, incluindo configuração e integração com o Node.js.
+> Aprofundei conhecimentos no desenvolvimento de aplicações com React e Node.js, integrando o front-end e back-end de forma fluida e eficiente.
 
 * Utilização de um SGBD e bancos relacionais de dados. (MySQL)
-> Tenho autonomia para realizar operações como consultas, criação de tabelas e manipulação de dados em um sistema de gerenciamento de banco de dados relacional.
+> Desenvolvi operações SQL, criação e manipulação de tabelas e consultas para atender às necessidades de gerenciamento do sistema.
 
 * Controle de versionamento (Git)  
-> Conhecimento sólido em Git, com habilidades para gerenciar o código do projeto, realizando operações de commit, push e pull de forma eficiente.
+> Ganhei prática em gerenciar o código do projeto, incluindo operações de commit, push e pull, garantindo a colaboração com a equipe e a integridade do projeto.
 
 ### Soft skills
 
-> Durante o projeto, trabalhei em um ambiente de equipe onde as tarefas foram atribuídas por meio de sprints, conforme o backlog do produto. Isso me permitiu aprimorar minha gestão do tempo e minha capacidade de cumprir prazos, além de gerenciar tarefas de forma produtiva. Essa experiência também contribuiu para o fortalecimento do meu conhecimento em TypeScript e melhorou minha habilidade de colaboração em equipe.
+* Organização e gerenciamento de tempo
+> Colaborei diretamente na organização das sprints e no planejamento das tarefas conforme o backlog, o que aprimorou minha habilidade em priorizar tarefas, cumprir prazos e lidar com múltiplas demandas. Essa experiência reforçou minha capacidade de dividir o trabalho em etapas menores e acompanhar o progresso de forma produtiva.
+
+* Comunicação e colaboração em equipe
+> Atuei em uma equipe multidisciplinar, onde a comunicação constante foi essencial para garantir que todos estivessem alinhados com as demandas e etapas do projeto. Isso aprimorou minha habilidade em transmitir ideias de forma clara e trabalhar com feedbacks, fortalecendo a sinergia e o desempenho coletivo.
+
+* Adaptabilidade e agilidade no aprendizado
+> A constante aplicação de tecnologias e metodologias de trabalho, como TypeScript e o método SCRUM, exigiu rápida adaptação e aprendizado constante. Fui capaz de me integrar rapidamente à quaisquer mudanças e contribuir de maneira efetiva, o que evidenciou minha capacidade de aprendizado ágil e adaptabilidade ao contexto do projeto.
 
 ### Quinto Semestre - Em 2024-1
 
@@ -332,7 +343,11 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Desenvolvi a 
 
 > [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
 
-A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvida em colaboração com a empresa parceira Oracle. O objetivo deste projeto foi criar uma aplicação mobile para gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os parceiros cadastrados no sistema. A aplicação precisava exibir todos os parceiros cadastrados, as trilhas e expertises vinculadas, a progressão dos parceiros e um sistema de gerenciamento com diferentes níveis de acesso para o administrador. Para a realização desse projeto, nossa equipe criou um repositório no GitHub para armazenar o código-fonte. Utilizamos a linguagem de programação TypeScript, a biblioteca de interface gráfica mobile React Native, um servidor Back-End em Node.js e um Banco de Dados SQL, utilizando PostgreSQL e MongoDB para o gerenciamento de dados.
+### Problema
+No 5º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Oracle, uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem, o desafio era desenvolver uma aplicação mobile para gerenciar o sistema de progressão de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema precisava exibir todos os parceiros cadastrados, mostrar as trilhas e expertises vinculadas, o progresso dos parceiros e incluir um sistema de gerenciamento com diferentes níveis de acesso para o administrador.
+
+### Solução
+Desenvolvemos uma aplicação mobile completa utilizando React Native para a interface gráfica, e um servidor back-end em Node.js, conectado a bancos de dados PostgreSQL e MongoDB para gerenciar as informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
 
 </Div>
 
@@ -371,24 +386,31 @@ A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto, fui responsável pelo desenvolvimento do Wireframe e do Front-End, além de elaborar o Manual do Usuário. Criei várias páginas em React Native utilizando o ExpoGo, garantindo que as interfaces fossem intuitivas e responsivas. Além disso, trabalhei na correção de bugs no código e auxiliei os membros da equipe nas partes que apresentavam dificuldades, promovendo um ambiente colaborativo.
+Neste projeto, fui responsável pelo desenvolvimento do wireframe e do Front-End, além de elaborar o Manual do Usuário. Criei diversas páginas em React Native utilizando ExpoGo, garantindo interfaces intuitivas e responsivas. Também participei na resolução de bugs e ofereci suporte aos membros da equipe em áreas mais complexas, promovendo um ambiente colaborativo.
 
-Como Product Owner (PO), mantive uma comunicação constante com o cliente, esclarecendo dúvidas e apresentando a evolução do Backlog em cada sprint, o que garantiu que as expectativas do cliente fossem atendidas. Também auxiliei na organização do repositório GitHub da equipe, otimizando o fluxo de trabalho e o versionamento do código.
+Como Product Owner (PO), mantive uma comunicação constante com o cliente, esclarecendo dúvidas e apresentando o progresso do backlog em cada sprint. Também organizei o repositório da equipe no GitHub, otimizando o fluxo de trabalho e versionamento do código.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Mobile (React Native + Node.Js)
-> Desenvolvi experiência prática em desenvolver aplicações móveis com React Native e desenvolvi proficiência em implementar funcionalidades complexas no Front-End e Back-End utilizando Node.js.
+> Obtive experiência prática no desenvolvimento de aplicações móveis com React Native e ampliei a proficiência em Node.js para implementação de funcionalidades no Front-End e Back-End.
 
 * Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
-> Possuo conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em bancos relacionais (PostgreSQL), aplicando-os efetivamente no projeto.
+> Apliquei conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em PostgreSQL e MongoDB, adequando-os aos requisitos do projeto.
 
 * Controle de versionamento (Git)  
-> Tenho habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e execução de pull requests, garantindo um fluxo de trabalho organizado e colaborativo.
+> Desenvolvi habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e realização de pull requests, garantindo um fluxo de trabalho organizado.
 
 ### Soft skills
 
-Durante o projeto, trabalhei em um ambiente ágil, onde as tarefas eram atribuídas por sprint. Isso me ajudou a aprimorar minha gestão do tempo e a cumprir prazos de forma eficiente. Como PO, a interação com o cliente fortaleceu minhas habilidades de comunicação e me ensinou a interpretar e traduzir requisitos técnicos em soluções práticas. A experiência em manter um Backlog atualizado e a colaboração constante com a equipe também melhoraram minha capacidade de trabalhar em equipe e liderar projetos, permitindo que eu aprofundasse meus conhecimentos em TypeScript e me introduzisse ao desenvolvimento mobile com React Native e ExpoGo.
+* Organização e gerenciamento de tempo
+> Atuei na organização das sprints e planejamento do backlog, o que reforçou minha habilidade em priorizar tarefas e gerenciar prazos com eficiência, permitindo lidar com múltiplas demandas.
+
+* Comunicação e colaboração em equipe
+> Mantive uma comunicação ativa com a equipe e cliente, assegurando alinhamento e colaboração contínua. Aprimorei habilidades de transmissão de ideias e integração de feedbacks, promovendo sinergia na equipe.
+
+* Adaptação e agilidade no aprendizado
+> A aplicação de novas tecnologias e metodologias ágeis, como React-Native com TypeScript e a metodologia SCRUM, exigiu rápida adaptação e aprendizado constante. Conseguindo assim, ajustar-me a mudanças e contribuir de maneira eficaz para o sucesso do projeto.
 
