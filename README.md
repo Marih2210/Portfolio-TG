@@ -414,3 +414,80 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 * Adaptação e agilidade no aprendizado
 > A aplicação de novas tecnologias e metodologias ágeis, como React-Native com TypeScript e a metodologia SCRUM, exigiu rápida adaptação e aprendizado constante. Conseguindo assim, ajustar-me a mudanças e contribuir de maneira eficaz para o sucesso do projeto.
 
+### Sexto Semestre - Em 2024-2
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
+
+### Problema
+No 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Oracle, uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem, o desafio era desenvolver uma aplicação mobile para gerenciar o sistema de progressão de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema precisava exibir todos os parceiros cadastrados, mostrar as trilhas e expertises vinculadas, o progresso dos parceiros e incluir um sistema de gerenciamento com diferentes níveis de acesso para o administrador.
+
+### Solução
+Desenvolvemos uma aplicação mobile completa utilizando React Native para a interface gráfica, e um servidor back-end em Node.js, conectado a bancos de dados PostgreSQL e MongoDB para gerenciar as informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React Native
+  > Utilizamos a biblioteca de interface gráfica mobile React Native para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB
+  > Utilizamos o MongoDB para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto, fui responsável pelo desenvolvimento do wireframe e do Front-End, além de elaborar o Manual do Usuário. Criei diversas páginas em React Native utilizando ExpoGo, garantindo interfaces intuitivas e responsivas. Também participei na resolução de bugs e ofereci suporte aos membros da equipe em áreas mais complexas, promovendo um ambiente colaborativo.
+
+Como Product Owner (PO), mantive uma comunicação constante com o cliente, esclarecendo dúvidas e apresentando o progresso do backlog em cada sprint. Também organizei o repositório da equipe no GitHub, otimizando o fluxo de trabalho e versionamento do código.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Mobile (React Native + Node.Js)
+> Obtive experiência prática no desenvolvimento de aplicações móveis com React Native e ampliei a proficiência em Node.js para implementação de funcionalidades no Front-End e Back-End.
+
+* Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
+> Apliquei conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em PostgreSQL e MongoDB, adequando-os aos requisitos do projeto.
+
+* Controle de versionamento (Git)  
+> Desenvolvi habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e realização de pull requests, garantindo um fluxo de trabalho organizado.
+
+### Soft skills
+
+* Organização e gerenciamento de tempo
+> Atuei na organização das sprints e planejamento do backlog, o que reforçou minha habilidade em priorizar tarefas e gerenciar prazos com eficiência, permitindo lidar com múltiplas demandas.
+
+* Comunicação e colaboração em equipe
+> Mantive uma comunicação ativa com a equipe e cliente, assegurando alinhamento e colaboração contínua. Aprimorei habilidades de transmissão de ideias e integração de feedbacks, promovendo sinergia na equipe.
+
+* Adaptação e agilidade no aprendizado
+> A aplicação de novas tecnologias e metodologias ágeis, como React-Native com TypeScript e a metodologia SCRUM, exigiu rápida adaptação e aprendizado constante. Conseguindo assim, ajustar-me a mudanças e contribuir de maneira eficaz para o sucesso do projeto.
+
