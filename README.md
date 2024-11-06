@@ -421,10 +421,12 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 > [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
 
 ### Problema
-No 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Oracle, uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem, o desafio era desenvolver uma aplicação mobile para gerenciar o sistema de progressão de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema precisava exibir todos os parceiros cadastrados, mostrar as trilhas e expertises vinculadas, o progresso dos parceiros e incluir um sistema de gerenciamento com diferentes níveis de acesso para o administrador.
+Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Dom Rock, uma companhia de soluções tecnológicas com foco em análise e gestão de dados corporativos, o desafio central foi desenvolver uma aplicação de IA generativa voltada para analisar e gerar insights de reviews de produtos de e-commerce. A solução deveria ajudar o departamento de compras corporativas a tomar decisões mais informadas na seleção de fornecedores e produtos, com base no feedback dos consumidores.
 
 ### Solução
-Desenvolvemos uma aplicação mobile completa utilizando React Native para a interface gráfica, e um servidor back-end em Node.js, conectado a bancos de dados PostgreSQL e MongoDB para gerenciar as informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
+Desenvolvemos uma aplicação chatbot utilizando Vue.js para a interface gráfica do Front-End, com integração aos bancos de dados PostgreSQL e MongoDB para o gerenciamento das informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro.
+
+Além disso, para otimização dos processos de análise e consultas, utilizamos Python e TypeScript para o tratamento de dados e automação de tarefas. A integração com a API do Google Generative AI foi realizada para responder às perguntas dos usuários com base em dados extraídos de um dataset de revisões de produtos. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
 
 </Div>
 
@@ -438,24 +440,27 @@ Desenvolvemos uma aplicação mobile completa utilizando React Native para a int
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
-  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React Native
-  > Utilizamos a biblioteca de interface gráfica mobile React Native para o desenvolvimento do Front-End da aplicação.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> Vue.js
+  > Utilizamos a biblioteca de interface gráfica Vue.js para o desenvolvimento do Front-End da aplicação.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
-  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Front-End da aplicação.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
   > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
 
-   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB
-  > Utilizamos o MongoDB para o armazenamento e consulta de dados do sistema.
-
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"/> Hugging Face Datasets 
+  > Utilizado para acessar e processar reviews de produtos públicos no dataset B2W-Reviews01, integrando dados de e-commerce ao sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/faiss/faiss-original.svg"/> FAISS
+  > Implementado como banco de dados vetorial para realizar buscas eficientes e comparações de similaridade entre reviews.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+  > Utilizamos o Python para desenvolvimento de rotinas de NLP e manipulação de dados.
+  
 </details>
  
 
@@ -463,31 +468,41 @@ Desenvolvemos uma aplicação mobile completa utilizando React Native para a int
 
 <Div align="justify" >
 
-Neste projeto, fui responsável pelo desenvolvimento do wireframe e do Front-End, além de elaborar o Manual do Usuário. Criei diversas páginas em React Native utilizando ExpoGo, garantindo interfaces intuitivas e responsivas. Também participei na resolução de bugs e ofereci suporte aos membros da equipe em áreas mais complexas, promovendo um ambiente colaborativo.
-
-Como Product Owner (PO), mantive uma comunicação constante com o cliente, esclarecendo dúvidas e apresentando o progresso do backlog em cada sprint. Também organizei o repositório da equipe no GitHub, otimizando o fluxo de trabalho e versionamento do código.
+Neste projeto, fui responsável pelo back-end, colaborei na integração dos modelos de linguagem com o framework Langchain e FAISS, otimizando as consultas vetoriais para extrair insights dos reviews e fui responsável também pela realização de testes nos parâmetros comportamentais da IA, especialmente no retorno de temperature, para garantir que o sistema gerasse respostas mais naturais e eficazes.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento Mobile (React Native + Node.Js)
-> Obtive experiência prática no desenvolvimento de aplicações móveis com React Native e ampliei a proficiência em Node.js para implementação de funcionalidades no Front-End e Back-End.
+* Desenvolvimento com Langchain e Google Generative AI
+> Adquiri experiência prática na integração de frameworks de IA como Langchain com o modelo Google Generative AI. A aplicação de embeddings, como o GoogleGenerativeAIEmbeddings, e a construção de chains dinâmicas para processamento de linguagem natural me permitiu otimizar consultas e respostas com base em grandes volumes de dados.
 
-* Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
-> Apliquei conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em PostgreSQL e MongoDB, adequando-os aos requisitos do projeto.
+* Processamento e Análise de Dados com Python e Pandas
+> Utilizei bibliotecas como Pandas para carregar e tratar grandes volumes de dados de reviews, realizando transformações e formatando as informações para integração eficiente com o sistema de IA. Também implementei otimizações no retorno de dados para garantir a performance do sistema.
+
+* Gerenciamento de Dados com FAISS
+> Implantei o banco de dados vetorial FAISS para armazenamento e busca eficiente de dados, maximizando a capacidade de consulta por relevância e realizando splits de texto para otimização da busca.
+
+* Otimização de Modelos de IA
+> Testei e ajustei parâmetros como a temperatura do modelo de IA para otimizar a precisão das respostas geradas. A experiência inclui o ajuste fino do comportamento do modelo, melhorando a coerência e relevância das respostas com base nos dados de entrada.
+
+* Integração de Sistemas
+> Trabalhei com a integração do sistema de IA a partir de datasets externos para consultas dinâmicas sobre os reviews dos produtos.
 
 * Controle de versionamento (Git)  
 > Desenvolvi habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e realização de pull requests, garantindo um fluxo de trabalho organizado.
 
 ### Soft skills
 
-* Organização e gerenciamento de tempo
-> Atuei na organização das sprints e planejamento do backlog, o que reforçou minha habilidade em priorizar tarefas e gerenciar prazos com eficiência, permitindo lidar com múltiplas demandas.
+* Testes e Otimização de Desempenho
+> Acompanhando o desempenho da IA, fui responsável pela realização de testes de otimização nos parâmetros de comportamento da IA, especialmente no retorno de temperature, para garantir que o sistema gerasse respostas mais naturais e eficazes.
 
-* Comunicação e colaboração em equipe
-> Mantive uma comunicação ativa com a equipe e cliente, assegurando alinhamento e colaboração contínua. Aprimorei habilidades de transmissão de ideias e integração de feedbacks, promovendo sinergia na equipe.
+* Gerenciamento de Projetos e Adaptação Rápida
+> Como parte do time, consegui integrar novos conceitos de IA em um curto período, adaptando-me às mudanças e gerenciando os testes e ajustes necessários para garantir que o modelo atendesse às necessidades de negócios.
 
-* Adaptação e agilidade no aprendizado
-> A aplicação de novas tecnologias e metodologias ágeis, como React-Native com TypeScript e a metodologia SCRUM, exigiu rápida adaptação e aprendizado constante. Conseguindo assim, ajustar-me a mudanças e contribuir de maneira eficaz para o sucesso do projeto.
+* Comunicação Técnica e Colaboração em Equipe
+> Estabeleci uma comunicação fluida entre a equipe, transmitindo conceitos técnicos de forma acessível e facilitando a colaboração para alcançar as metas do projeto.
+
+* Resolução de Problemas e Análise Crítica
+> Atuei na identificação de possíveis gargalos no sistema, propondo soluções para otimizar o fluxo de dados e melhorar a eficiência do processo de análise de feedbacks e recomendações de produtos.
 
