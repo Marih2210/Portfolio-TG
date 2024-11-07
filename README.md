@@ -424,9 +424,9 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Dom Rock, uma companhia de soluções tecnológicas com foco em análise e gestão de dados corporativos, o desafio central foi desenvolver uma aplicação de IA generativa voltada para analisar e gerar insights de reviews de produtos de e-commerce. A solução deveria ajudar o departamento de compras corporativas a tomar decisões mais informadas na seleção de fornecedores e produtos, com base no feedback dos consumidores.
 
 ### Solução
-Desenvolvemos uma aplicação chatbot utilizando Vue.js para a interface gráfica do Front-End, com integração aos bancos de dados PostgreSQL e MongoDB para o gerenciamento das informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro.
+Desenvolvemos uma aplicação chatbot utilizando Vue.js para a interface gráfica do Front-End, com integração com o banco de dados vetorial FAISS para o armazenamento e gerenciamento dos dados e informações do sistema. A aplicação permite ao usuário interagir com o chatbot, por meio de perguntas relacionadas ao dataset de reviews de produtos.
 
-Além disso, para otimização dos processos de análise e consultas, utilizamos Python e TypeScript para o tratamento de dados e automação de tarefas. A integração com a API do Google Generative AI foi realizada para responder às perguntas dos usuários com base em dados extraídos de um dataset de revisões de produtos. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
+Além disso, para otimização dos processos de análise e consultas, utilizamos o Framework Langchain do Python e bibliotecas do próprio Python, como o Pandas, Spacy e Nltk, para o tratamento de dados e automação de tarefas. A integração com a API do Google Generative AI foi realizada para responder às perguntas dos usuários com base em dados extraídos de um dataset de revisões de produtos. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
 
 </Div>
 
