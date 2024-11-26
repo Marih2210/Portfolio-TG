@@ -114,13 +114,16 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 > Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
 
 * Comunicação
-> Melhorei minha comunicação ao sugerir e conduzir reuniões frequentes online para alinhamento. Esse diálogo constante foi essencial para o progresso do projeto.
+> Desenvolvi habilidades de comunicação eficaz ao conduzir reuniões de alinhamento entre os membros da equipe, detalhando tarefas e garantindo que todos compreendessem as etapas do projeto.
 
 * Autonomia
 > Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
 
 * Trabalho em equipe
-> Colaborei efetivamente ao revisar código com os colegas, discutindo melhorias e garantindo a qualidade e coesão do projeto final.
+> Organizei reuniões diárias utilizando metodologias ágeis, como Scrum, para revisar o progresso do projeto, identificar bloqueios e promover uma colaboração contínua entre os integrantes.
+
+* Gestão de tempo
+> Implementei cronogramas e utilizei o gráfico de burndown para monitorar e priorizar tarefas, garantindo que todas as etapas do projeto fossem entregues dentro dos prazos estabelecidos.
 
 
 ### Segundo Semestre - Em 2022-2
@@ -129,11 +132,16 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 
 > [Link para a API do 2º Semetre](https://github.com/LittleTech10/API--2-ADS)
 
-### Problema
-No 2º semestre do curso de Análise e Desenvolvimento de Sistemas, a necessidade foi identificada em conjunto com a empresa TrackCash, uma empresa do setor financeiro especializada em controle de gastos. O projeto visava criar uma aplicação desktop em Java para o gerenciamento de dados sensíveis, como canais de marketplaces, métodos de pagamento, plataformas ERP, senhas e tokens. Este sistema permitiria à TrackCash acessar as informações financeiras da instituição cadastrada de forma segura e organizada.
+No 2º semestre do curso de Análise e Desenvolvimento de Sistemas, foi identificada uma necessidade em parceria com a empresa TrackCash, especializada no setor financeiro, focada em controle de gastos. A empresa enfrentava desafios no gerenciamento seguro e eficiente de informações sensíveis, como canais de marketplaces, métodos de pagamento, plataformas ERP, senhas e tokens. A ausência de uma ferramenta centralizada dificultava o acesso organizado e protegido a esses dados críticos, expondo-os a possíveis erros e vulnerabilidades.
 
-### Solução
-Desenvolvemos uma aplicação desktop com Java para registrar e gerenciar canais, operadores e usuários, integrando funcionalidades de edição e controle de acesso a dados. O código-fonte foi hospedado em um repositório GitHub para facilitar a organização e o versionamento. Utilizamos Java com a biblioteca Swing para o desenvolvimento de interfaces gráficas e MySQL para o gerenciamento de dados, proporcionando uma solução robusta e intuitiva para o cliente.
+Para resolver essa problemática, desenvolvemos uma aplicação desktop em Java que permitisse registrar, gerenciar e editar dados relacionados a canais, operadores e usuários. A solução integrou controle de acesso e funcionalidades robustas para garantir a segurança e a organização das informações.
+
+Os aspectos técnicos da solução incluem:
+
+Interface gráfica criada com a biblioteca Swing, proporcionando uma experiência intuitiva para os usuários.
+Banco de dados MySQL para armazenar informações de maneira segura e eficiente.
+Versionamento do código com Git, promovendo uma colaboração fluida entre os membros da equipe e o cliente.
+Essa aplicação atendeu à necessidade da TrackCash de centralizar e proteger suas informações, oferecendo uma solução confiável e escalável para gerenciar seus dados sensíveis.
 
 </Div>
 
@@ -167,30 +175,27 @@ Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o 
 
 </Div>
 
-### Hard skills
-
-* Desenvolvimento da parte do Sistema Java Desktop 
-> Ganhei experiência prática no desenvolvimento de aplicações usando Java, explorando IDEs como NetBeans e IntelliJ. Aprendi a criar interfaces gráficas com Swing e a integrar funcionalidades no sistema.
-
-* Controle de versionamento (GIT)  
-> Apliquei conhecimentos em Git para gerenciar versões do projeto, realizando operações de commit, push e pull, facilitando a colaboração com os membros da equipe.
-
-* Banco de Dados MySQL 
-> Desenvolvi habilidades em consultas SQL, conexões de banco de dados, criação de tabelas e manipulação de dados, garantindo a integridade e a eficiência do sistema de armazenamento.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Java | Linguagem de programação | Competente | 
+| Git  | Controle de versionamento | Proficiente | 
+| Swing (Java) | Desenvolvimento de interfaces gráficas para um sistema desktop | Competente |
+| MySQL | Gerenciamento de banco de dados, incluindo consultas, manipulação de dados e criação de tabelas | Proficiente |
 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Participei ativamente da organização das sprints e da definição das tarefas no backlog. Essa experiência aprimorou minha capacidade de gerenciar tempo e de cumprir prazos com eficácia.
+> Participei da organização de sprints e do planejamento do backlog, assegurando a conclusão das entregas dentro dos prazos estipulados.
 
 * Liderança e comunicação com o cliente
-> Atuei como Product Owner, sendo responsável por manter uma comunicação clara com o cliente. Esclareci dúvidas e repassei feedbacks para a equipe, o que aprimorou minhas habilidades de liderança e comunicação.
+> Atuei como Product Owner, conduzindo reuniões com o cliente para esclarecimento de requisitos e repassando feedbacks claros à equipe.
 
 * Trabalho em equipe e colaboração
-> Interagi de forma colaborativa com os membros do time, garantindo que todos estivessem alinhados com as metas do projeto. Essa experiência reforçou minha capacidade de trabalhar bem em equipe.
+> Garanti um alinhamento eficiente entre os integrantes da equipe, promovendo uma comunicação aberta e um ambiente de cooperação para o sucesso do projeto.
 
 * Adaptabilidade em ambientes ágeis
-> Ao atuar em um novo ambiente de desenvolvimento e com metodologias ágeis, ampliei minha adaptabilidade e aprendi a integrar novas tecnologias e práticas de forma eficaz no trabalho em equipe.
+> Integrei novas tecnologias e práticas no processo de desenvolvimento, demonstrando flexibilidade para atuar em um ambiente ágil com metodologias como Scrum.
 
 ### Terceiro Semestre - Em 2023-1
 
@@ -198,11 +203,21 @@ Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o 
 
 > [Link para a API do 3º Semestre](https://github.com/LittleTech10/API--3-ADS)
 
-### Problema
-No 3º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Visiona Tecnologia Espacial, uma empresa de integração de sistemas espaciais e prestação de serviços baseados em satélites, foi identificado o desafio de desenvolver uma aplicação web para gerenciamento e monitoramento de ações de usuários. A empresa necessitava de um sistema que permitisse aos administradores acessarem, visualizarem e acompanharem as manipulações realizadas pelos usuários no sistema, incluindo edições, exclusões lógicas e cadastros.
+No 3º semestre do curso de Análise e Desenvolvimento de Sistemas, em colaboração com a Visiona Tecnologia Espacial, uma empresa especializada na integração de sistemas espaciais e serviços baseados em satélites, identificamos a necessidade de desenvolver uma solução para monitorar e gerenciar ações de usuários em um sistema. A empresa enfrentava dificuldades em rastrear operações realizadas pelos usuários, como edições, exclusões lógicas e cadastros, impactando a supervisão e o controle administrativo.
 
-### Solução
-Desenvolvemos uma aplicação web com um Front-End em React e um Back-End em Node.js, utilizando PostgreSQL para o gerenciamento de dados. A aplicação proporciona uma visão clara e detalhada das ações de usuários para os administradores da Visiona, permitindo o controle completo das operações realizadas no sistema. O código-fonte foi armazenado em um repositório no GitHub para facilitar o versionamento e a colaboração.
+Os administradores precisavam de uma ferramenta confiável que proporcionasse visibilidade sobre essas ações e permitisse acompanhar as manipulações no sistema de forma clara e centralizada.
+
+Criamos uma aplicação web completa para atender a essa necessidade. O sistema foi desenvolvido com:
+
+Front-End: Utilizando React, criamos interfaces dinâmicas e responsivas para visualização e gerenciamento das ações realizadas pelos usuários.
+Back-End: Desenvolvido em Node.js, garantindo a comunicação entre o Front-End e o banco de dados.
+Banco de Dados: Utilizamos PostgreSQL para armazenar e gerenciar dados de forma eficiente, incluindo logs detalhados das operações realizadas.
+O projeto incluiu funcionalidades como:
+
+Registro e exibição das ações dos usuários em tempo real.
+Controle administrativo centralizado para acompanhar cadastros, edições e exclusões lógicas.
+Integração com o GitHub para versionamento e colaboração eficiente.
+Essa solução ofereceu à Visiona uma ferramenta robusta para o gerenciamento de ações no sistema, melhorando a supervisão e a segurança administrativa.
 
 </Div>
 
@@ -245,30 +260,27 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 
 </Div>
 
-### Hard skills
-
-* Desenvolvimento Web (React + Node.Js)
-> Desenvolvi um conhecimento sólido no uso de React para criar interfaces dinâmicas, assim como na configuração do servidor Node.js para facilitar a comunicação entre o Front-End e o Back-End.
-
-* Gerenciamento de Banco de Dados (PostgreSQL)
-> Aprimorei habilidades em criação de tabelas, consultas complexas e montagem de esquemas, otimizando o armazenamento e recuperação de dados no sistema.
-
-* Controle de versionamento (GIT)  
-> Apliquei conhecimentos em Git para gerenciar o código do projeto, organizando commits, push e pull, e garantindo a colaboração eficaz entre os membros da equipe.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| React | Criação de interfaces dinâmicas para a aplicação web | Proficiente | 
+| Git  | Controle de versionamento | Proficiente | 
+| PostgreSQL | Gerenciamento de banco de dados, incluindo consultas, manipulação de dados e criação de tabelas | Proficiente |
+| Node.js | Configuração do servidor Back-End e desenvolvimento de APIs REST | Competente |
 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Colaborei na organização das sprints e definição de tarefas, aprimorando minhas habilidades de gerenciamento de tempo e cumprimento de prazos.
+> Participei ativamente da definição de sprints e distribuição de tarefas, garantindo entregas dentro dos prazos estipulados.
 
 * Trabalho em equipe e comunicação
-> Durante o projeto, mantive uma comunicação clara e colaborativa com a equipe, o que aprimorou minha capacidade de trabalhar em grupo e resolver problemas em conjunto.
+> Mantenho uma comunicação eficiente com a equipe, promovendo a resolução de problemas e alinhamento constante durante o desenvolvimento.
 
 * Adaptabilidade e feedback
-> A experiência me ensinou a integrar feedback de clientes e a adaptar o design das telas, reforçando minha flexibilidade e capacidade de iteração em um ambiente ágil.
+> Aprendi a adaptar o design e a funcionalidade das telas com base nos feedbacks recebidos, integrando mudanças de forma rápida e eficiente em um ambiente ágil.
 
 * Liderança e comprometimento
-> Assumir responsabilidades no desenvolvimento das interfaces aprimorou minha capacidade de liderança e compromisso com a entrega de soluções de qualidade.
+> Ao assumir responsabilidades no desenvolvimento do Front-End, demonstrei liderança e comprometimento com a entrega de uma solução de qualidade para o cliente.
 
 ### Quarto Semestre - Em 2023-2
 
@@ -276,11 +288,22 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 
 > [Link para a API do 4º Semestre](https://github.com/TechForce-ADS/Greenneat)
 
-### Problema
-No 4º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Greenneat, uma empresa de produtos de limpeza sustentável, natural, plant-based e ecológica, a demanda central tinha como objetivo desenvolver uma aplicação web para gerenciar usuários e créditos utilizados como moeda de troca em transações de óleo usado. Esse sistema possibilitaria que a Greenneat oferecesse benefícios e descontos em sua loja virtual, exibindo todas as transações de créditos para o administrador, incluindo compras, vendas de produtos e o gerenciamento de usuários.
+No 4º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Greenneat, uma empresa especializada em produtos de limpeza sustentáveis e plant-based, identificamos a necessidade de criar uma solução para o gerenciamento de usuários e créditos. O principal desafio era desenvolver um sistema que permitisse o registro e o controle de transações de óleo usado, convertidas em créditos que poderiam ser utilizados como moeda de troca para benefícios e descontos na loja virtual da Greenneat.
 
-### Solução
-Desenvolvemos uma aplicação web completa, integrando um front-end em React e TypeScript, e um back-end em Node.js, conectados a um banco de dados MySQL. O sistema permite o registro e a administração de usuários e suas transações, incluindo uma interface para o administrador visualizar todas as movimentações de créditos no sistema. O código-fonte foi versionado no GitHub, garantindo organização e controle das iterações no desenvolvimento.
+Além disso, o sistema deveria oferecer ao administrador uma visão completa das transações, incluindo compras, vendas e movimentações de créditos, proporcionando um controle centralizado e eficiente.
+
+Desenvolvemos uma aplicação web completa para atender às demandas da Greenneat. O sistema foi implementado com:
+
+Front-End: Construído em React com TypeScript, oferecendo interfaces dinâmicas e seguras para gerenciar usuários e créditos.
+Back-End: Desenvolvido em Node.js, garantindo o processamento das regras de negócios e a integração com o banco de dados.
+Banco de Dados: Utilizamos MySQL para o armazenamento e gerenciamento das transações e informações dos usuários.
+Funcionalidades principais:
+
+Cadastro e administração de usuários.
+Registro e acompanhamento de todas as movimentações de créditos, incluindo compras e vendas.
+Painel administrativo para visualização e controle das transações.
+Integração com o GitHub para versionamento e gerenciamento eficiente do código-fonte.
+A solução proporcionou à Greenneat uma ferramenta robusta e intuitiva, otimizando o gerenciamento de transações e fortalecendo o relacionamento com os clientes.
 
 </Div>
 
@@ -320,27 +343,28 @@ Neste projeto, Fui responsável pelo desenvolvimento do front-end, incluindo as 
 
 </Div>
 
-### Hard skills
-
-* Desenvolvimento Web (React + Node.Js)
-> Aprofundei conhecimentos no desenvolvimento de aplicações com React e Node.js, integrando o front-end e back-end de forma fluida e eficiente.
-
-* Utilização de um SGBD e bancos relacionais de dados. (MySQL)
-> Desenvolvi operações SQL, criação e manipulação de tabelas e consultas para atender às necessidades de gerenciamento do sistema.
-
-* Controle de versionamento (Git)  
-> Ganhei prática em gerenciar o código do projeto, incluindo operações de commit, push e pull, garantindo a colaboração com a equipe e a integridade do projeto.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| React | Criação de interfaces dinâmicas para a aplicação web | Proficiente | 
+| Git  | Controle de versionamento | Proficiente | 
+| MySQL | Gerenciamento de banco de dados, incluindo consultas, manipulação de dados e criação de tabelas | Proficiente |
+| Node.js | Configuração do servidor Back-End e desenvolvimento de APIs REST | Competente |
+| Typescript | Linguagem de programação | Competente |
 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Colaborei diretamente na organização das sprints e no planejamento das tarefas conforme o backlog, o que aprimorou minha habilidade em priorizar tarefas, cumprir prazos e lidar com múltiplas demandas. Essa experiência reforçou minha capacidade de dividir o trabalho em etapas menores e acompanhar o progresso de forma produtiva.
+> Participei ativamente do planejamento das sprints e do acompanhamento do backlog, priorizando tarefas para garantir entregas consistentes e dentro dos prazos estipulados.
 
 * Comunicação e colaboração em equipe
-> Atuei em uma equipe multidisciplinar, onde a comunicação constante foi essencial para garantir que todos estivessem alinhados com as demandas e etapas do projeto. Isso aprimorou minha habilidade em transmitir ideias de forma clara e trabalhar com feedbacks, fortalecendo a sinergia e o desempenho coletivo.
+> Trabalhei de forma colaborativa em uma equipe multidisciplinar, garantindo alinhamento contínuo das atividades por meio de reuniões frequentes e feedbacks construtivos.
 
-* Adaptabilidade e agilidade no aprendizado
-> A constante aplicação de tecnologias e metodologias de trabalho, como TypeScript e o método SCRUM, exigiu rápida adaptação e aprendizado constante. Fui capaz de me integrar rapidamente à quaisquer mudanças e contribuir de maneira efetiva, o que evidenciou minha capacidade de aprendizado ágil e adaptabilidade ao contexto do projeto.
+* Adaptabilidade e Aprendizado Ágil
+> Aprendi a integrar o uso do TypeScript e me adaptei rapidamente às mudanças no escopo do projeto, aplicando práticas ágeis como o SCRUM para melhorar a eficiência e a qualidade do trabalho.
+
+* Foco na Solução de Problemas
+> Diante de desafios no desenvolvimento do sistema, mantive uma abordagem proativa para identificar problemas e implementar soluções eficazes, fortalecendo minha habilidade de resolução em um ambiente ágil.
 
 ### Quinto Semestre - Em 2024-1
 
@@ -348,11 +372,25 @@ Neste projeto, Fui responsável pelo desenvolvimento do front-end, incluindo as 
 
 > [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
 
-### Problema
-No 5º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Oracle, uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware, softwares, bancos de dados e serviços de nuvem, o desafio era desenvolver uma aplicação mobile para gerenciar o sistema de progressão de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema precisava exibir todos os parceiros cadastrados, mostrar as trilhas e expertises vinculadas, o progresso dos parceiros e incluir um sistema de gerenciamento com diferentes níveis de acesso para o administrador.
+No 5º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Oracle, uma multinacional líder em tecnologia e inovação, o desafio proposto foi criar uma aplicação mobile para gerenciar o progresso de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema deveria:
 
-### Solução
-Desenvolvemos uma aplicação mobile completa utilizando React Native para a interface gráfica, e um servidor back-end em Node.js, conectado a bancos de dados PostgreSQL e MongoDB para gerenciar as informações do sistema. A aplicação permitiu ao administrador gerenciar o progresso dos parceiros, acessar registros de expertises e trilhas, e visualizar o status de cada parceiro. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
+Listar parceiros cadastrados e suas respectivas trilhas e expertises.
+Apresentar o progresso individual de cada parceiro em suas trilhas.
+Oferecer uma interface administrativa com diferentes níveis de acesso para gerenciar as informações e o progresso dos parceiros.
+A solução precisava garantir segurança, escalabilidade e usabilidade, atendendo a altos padrões tecnológicos e funcionais.
+
+Desenvolvemos uma aplicação mobile completa, integrando as seguintes tecnologias:
+
+Front-End: Desenvolvido em React Native, criando uma interface responsiva e otimizada para dispositivos móveis.
+Back-End: Construído em Node.js, fornecendo APIs robustas para comunicação com o banco de dados.
+Banco de Dados: Utilizamos PostgreSQL para dados relacionais e MongoDB para dados não estruturados, aproveitando os pontos fortes de cada tecnologia para diferentes tipos de registros.
+Funcionalidades principais:
+
+Exibição de parceiros cadastrados e suas trilhas de aprendizado.
+Visualização do progresso individual nas expertises e trilhas.
+Gerenciamento administrativo com níveis de acesso diferenciados, permitindo maior controle sobre usuários e dados.
+Integração com GitHub para versionamento, garantindo organização e rastreamento das alterações durante o desenvolvimento.
+A aplicação trouxe à Oracle uma solução eficaz para monitorar e gerenciar o progresso de seus parceiros, fortalecendo a relação e o desempenho nas trilhas de aprendizado.
 
 </Div>
 
@@ -399,25 +437,28 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 
 ### Hard skills
 
-* Desenvolvimento Mobile (React Native + Node.Js)
-> Obtive experiência prática no desenvolvimento de aplicações móveis com React Native e ampliei a proficiência em Node.js para implementação de funcionalidades no Front-End e Back-End.
-
-* Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
-> Apliquei conhecimentos sólidos em consultas, criação de tabelas e manipulação de dados em PostgreSQL e MongoDB, adequando-os aos requisitos do projeto.
-
-* Controle de versionamento (Git)  
-> Desenvolvi habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e realização de pull requests, garantindo um fluxo de trabalho organizado.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Desenvolvimento Mobile (React Native) | Criação de interfaces dinâmicas para a aplicação mobile | Proficiente | 
+| Git  | Controle de versionamento | Proficiente | 
+| PostgreSQL e MongoDB | Criação e manipulação de dados relacionais e não relacionais para atender às demandas do projetos | Proficiente |
+| Node.js | Configuração do servidor Back-End e desenvolvimento de APIs REST | Competente |
+| Typescript | Linguagem de programação | Competente |
 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Atuei na organização das sprints e planejamento do backlog, o que reforçou minha habilidade em priorizar tarefas e gerenciar prazos com eficiência, permitindo lidar com múltiplas demandas.
+> Planejei e acompanhei as sprints utilizando a metodologia SCRUM, garantindo entregas dentro dos prazos e priorizando tarefas de acordo com o backlog.
 
 * Comunicação e colaboração em equipe
-> Mantive uma comunicação ativa com a equipe e cliente, assegurando alinhamento e colaboração contínua. Aprimorei habilidades de transmissão de ideias e integração de feedbacks, promovendo sinergia na equipe.
+> Mantive alinhamento constante com os membros da equipe e o cliente, ajustando entregas de acordo com feedbacks recebidos e promovendo um ambiente colaborativo.
 
-* Adaptação e agilidade no aprendizado
-> A aplicação de novas tecnologias e metodologias ágeis, como React-Native com TypeScript e a metodologia SCRUM, exigiu rápida adaptação e aprendizado constante. Conseguindo assim, ajustar-me a mudanças e contribuir de maneira eficaz para o sucesso do projeto.
+* Adaptação e Aprendizado Rápido
+> Aprendi e apliquei novas tecnologias como React Native com TypeScript, além de ajustar-me rapidamente às mudanças de escopo e requisitos durante o projeto.
+
+* Resolução de Problemas e Foco em Resultados
+> Contribuí diretamente para a superação de desafios técnicos e de design, garantindo a entrega de uma solução funcional e alinhada com os objetivos da Oracle.
 
 ### Sexto Semestre - Em 2024-2
 
@@ -425,13 +466,18 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 
 > [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
 
-### Problema
-Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a empresa Dom Rock, uma companhia de soluções tecnológicas com foco em análise e gestão de dados corporativos, o desafio central foi desenvolver uma aplicação de IA generativa voltada para analisar e gerar insights de reviews de produtos de e-commerce. A solução deveria ajudar o departamento de compras corporativas a tomar decisões mais informadas na seleção de fornecedores e produtos, com base no feedback dos consumidores.
+Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Dom Rock, uma empresa especializada em soluções tecnológicas para análise e gestão de dados corporativos, o desafio foi desenvolver uma aplicação de IA generativa para analisar e gerar insights a partir de reviews de produtos de e-commerce. O objetivo era auxiliar o departamento de compras corporativas na seleção de fornecedores e produtos, com base em análises detalhadas e feedbacks dos consumidores.
 
-### Solução
-Desenvolvemos uma aplicação chatbot utilizando Vue.js para a interface gráfica do Front-End, com integração com o banco de dados vetorial FAISS para o armazenamento e gerenciamento dos dados e informações do sistema. A aplicação permite ao usuário interagir com o chatbot, por meio de perguntas relacionadas ao dataset de reviews de produtos.
+A solução deveria ser escalável, eficiente e capaz de transformar grandes volumes de dados em insights acionáveis, utilizando tecnologias de processamento de linguagem natural (NLP) e machine learning.
 
-Além disso, para otimização dos processos de análise e consultas, utilizamos o Framework Langchain do Python e bibliotecas do próprio Python, como o Pandas, Spacy e Nltk, para o tratamento de dados e automação de tarefas. A integração com a API do Google Generative AI foi realizada para responder às perguntas dos usuários com base em dados extraídos de um dataset de revisões de produtos. O código-fonte foi organizado e versionado no GitHub, garantindo um desenvolvimento colaborativo e eficiente.
+Desenvolvemos uma aplicação chatbot integrada com tecnologias de ponta para oferecer uma experiência interativa e eficiente ao usuário. A solução consistiu em:
+
+Interface do Front-End: Desenvolvida em Vue.js, oferecendo uma interface simples e responsiva para interação com o chatbot.
+Gerenciamento e busca de dados: Utilizamos o banco de dados vetorial FAISS, otimizando o armazenamento e a recuperação de dados relevantes para as consultas.
+Processamento de Dados: Implementamos bibliotecas do Python, como Pandas, Spacy e NLTK, para tratamento de texto, transformações e preparação do dataset de reviews.
+Integração com IA: Utilizamos o framework Langchain em conjunto com a API do Google Generative AI para processar as perguntas e gerar respostas com base nos reviews analisados.
+Versionamento: O código-fonte foi estruturado e versionado no GitHub, promovendo a colaboração eficiente e garantindo rastreabilidade durante o desenvolvimento.
+A aplicação permitiu que a Dom Rock oferecesse uma solução prática para análise de feedbacks, tornando o processo de decisão corporativa mais rápido e embasado.
 
 </Div>
 
@@ -451,9 +497,6 @@ Além disso, para otimização dos processos de análise e consultas, utilizamos
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
   > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Front-End da aplicação.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
-  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
-
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
@@ -465,6 +508,9 @@ Além disso, para otimização dos processos de análise e consultas, utilizamos
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
   > Utilizamos o Python para desenvolvimento de rotinas de NLP e manipulação de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End.
   
 </details>
  
@@ -477,37 +523,28 @@ Neste projeto, fui responsável pelo back-end, colaborei na integração dos mod
 
 </Div>
 
-### Hard skills
-
-* Desenvolvimento com Langchain e Google Generative AI
-> Adquiri experiência prática na integração de frameworks de IA como Langchain com o modelo Google Generative AI. A aplicação de embeddings, como o GoogleGenerativeAIEmbeddings, e a construção de chains dinâmicas para processamento de linguagem natural me permitiu otimizar consultas e respostas com base em grandes volumes de dados.
-
-* Processamento e Análise de Dados com Python e Pandas
-> Utilizei bibliotecas como Pandas para carregar e tratar grandes volumes de dados de reviews, realizando transformações e formatando as informações para integração eficiente com o sistema de IA. Também implementei otimizações no retorno de dados para garantir a performance do sistema.
-
-* Gerenciamento de Dados com FAISS
-> Implantei o banco de dados vetorial FAISS para armazenamento e busca eficiente de dados, maximizando a capacidade de consulta por relevância e realizando splits de texto para otimização da busca.
-
-* Otimização de Modelos de IA
-> Testei e ajustei parâmetros como a temperatura do modelo de IA para otimizar a precisão das respostas geradas. A experiência inclui o ajuste fino do comportamento do modelo, melhorando a coerência e relevância das respostas com base nos dados de entrada.
-
-* Integração de Sistemas
-> Trabalhei com a integração do sistema de IA a partir de datasets externos para consultas dinâmicas sobre os reviews dos produtos.
-
-* Controle de versionamento (Git)  
-> Desenvolvi habilidades avançadas em Git, incluindo gestão de branches, resolução de conflitos e realização de pull requests, garantindo um fluxo de trabalho organizado.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| Langchain e Google Generative AI | Integração com Langchain e Google Generative AI para gerar respostas a partir de embeddings e consultas dinâmicas | Proficiente | 
+| Processamento de Dados com Python | Utilização de Pandas, Spacy e NLTK para carregar, transformar e otimizar grandes volumes de dados | Competente | 
+| Gerenciamento de Dados com FAISS | Implementação de FAISS para armazenamento e recuperação eficiente de dados vetoriais | Proficiente |
+| Otimização de Modelos de IA | Ajuste fino de parâmetros (ex.: temperatura) para aprimorar a qualidade e relevância das respostas geradas. | Proficiente |
+| Integração de Sistemas | Conexão do sistema com datasets externos para consultas e geração de insights | Proficiente |
+| Typescript | Linguagem de programação | Competente |
+| Git  | Controle de versionamento | Proficiente | 
 
 ### Soft skills
 
 * Testes e Otimização de Desempenho
-> Acompanhando o desempenho da IA, fui responsável pela realização de testes de otimização nos parâmetros de comportamento da IA, especialmente no retorno de temperature, para garantir que o sistema gerasse respostas mais naturais e eficazes.
+> Realizei testes rigorosos para ajustar parâmetros da IA, otimizando o tempo de resposta e a qualidade das informações geradas.
 
 * Gerenciamento de Projetos e Adaptação Rápida
-> Como parte do time, consegui integrar novos conceitos de IA em um curto período, adaptando-me às mudanças e gerenciando os testes e ajustes necessários para garantir que o modelo atendesse às necessidades de negócios.
+> Adaptei-me rapidamente ao uso de novas tecnologias, como FAISS e Langchain, garantindo a entrega de uma solução robusta e dentro do prazo.
 
 * Comunicação Técnica e Colaboração em Equipe
-> Estabeleci uma comunicação fluida entre a equipe, transmitindo conceitos técnicos de forma acessível e facilitando a colaboração para alcançar as metas do projeto.
+> Colaborei com a equipe transmitindo conceitos técnicos de IA e NLP, facilitando o entendimento e o alinhamento das tarefas.
 
 * Resolução de Problemas e Análise Crítica
-> Atuei na identificação de possíveis gargalos no sistema, propondo soluções para otimizar o fluxo de dados e melhorar a eficiência do processo de análise de feedbacks e recomendações de produtos.
+> Identifiquei gargalos no fluxo de dados e propus melhorias, garantindo um sistema mais eficiente e com menor tempo de processamento.
 
