@@ -43,11 +43,19 @@ Atualmente atuo como estagiária de desenvolvimento na empresa Optimus GIS LTDA,
 
 > [Link para a API do 1º Semetre](https://github.com/LittleTech10/API--1-ADS)
 
-### Problema
-O projeto de Aprendizagem por Projetos Integrados do 1º semestre do curso de Análise e Desenvolvimento de Sistemas foi idealizado em resposta a uma demanda do professor Antônio Egydio São Thiago Graça, da Fatec de São José dos Campos. O problema central consistia na ausência de uma plataforma que facilitasse a catalogação de oportunidades de emprego e cursos de certificação em diversas áreas de atuação. A falta de centralização dessas informações dificultava que alunos e profissionais encontrassem oportunidades de forma rápida e eficiente.
+O projeto de Aprendizagem por Projetos Integrados do 1º semestre do curso de Análise e Desenvolvimento de Sistemas foi idealizado para resolver um problema identificado pelo professor Antônio Egydio São Thiago Graça, da Fatec São José dos Campos. O principal desafio era a falta de uma plataforma centralizada que permitisse a catalogação de oportunidades de emprego e cursos de certificação em diversas áreas de atuação. Essa ausência dificultava que estudantes e profissionais encontrassem essas informações de forma rápida, acessível e organizada.
 
-### Solução
-Para atender a essa necessidade, desenvolvemos um sistema web que permitisse o armazenamento e a consulta dessas vagas de emprego e cursos. O projeto foi estruturado em um repositório no GitHub, onde o código-fonte foi mantido e versionado para facilitar a colaboração. Utilizamos Python e JavaScript para a lógica de programação, enquanto HTML5 e CSS3 foram a base do front-end. Os frameworks Flask e Bootstrap foram integrados para criar uma interface responsiva e intuitiva, garantindo uma navegação simplificada e acessível para os usuários.
+Além disso, a dispersão dos dados em múltiplas fontes apresentava riscos de perda de informações e criava dificuldades na atualização e manutenção dos conteúdos disponíveis.
+
+Para abordar esse problema, foi desenvolvido um sistema web que centraliza e facilita o acesso às oportunidades de emprego e certificações. A solução foi estruturada em um repositório no GitHub, com o código devidamente versionado para colaboração eficiente e transparência no desenvolvimento.
+
+Os principais aspectos técnicos incluem:
+
+Back-end desenvolvido com Python e o framework Flask, garantindo uma lógica robusta e eficiente para o processamento de dados.
+Front-end criado com HTML5 e CSS3, aprimorado pelo framework Bootstrap, para uma interface responsiva e intuitiva.
+Funcionalidades como raspagem de dados foram implementadas para automatizar a coleta de informações relevantes.
+
+Essa solução aprimora a acessibilidade, segurança e centralização das informações, permitindo uma experiência simplificada para os usuários.
 
 </Div>
 
@@ -89,16 +97,13 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 
 </Div>
 
-### Hard skills
-
-* Desenvolvimento da parte do Sistema Web (Utilizando HTML5, CSS3 e JavaScript)
-> Nível: Autônomo. Desenvolvi o layout e a responsividade de páginas com estruturações interativas e responsivas.
-
-* Controle de versionamento (GIT)  
-> Nível: Autônomo. Realizei operações de versionamento como pull, clone, commit e push.
-
-* Raspagem de Dados (Web-Scraping) (Python)  
-> Nível: Intermediário (com ajuda). Aprimorei habilidades para coletar dados de fontes online.
+#### Hard Skills
+| Hard Skills | Utilização | Nível de proficiência |
+|:---------:|:---------:|:---------:|
+| HTML e CSS | Estruturação e Estilização | Proficiente | 
+| Python | Linguagem de programação | Competente | 
+| Git  | Controle de versionamento | Proficiente | 
+| JavaScript | Linguagem de programação | Proficiente |
 
 ### Soft skills
 
