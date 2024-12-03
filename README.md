@@ -285,9 +285,9 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 
 > [Link para a API do 4º Semestre](https://github.com/TechForce-ADS/Greenneat)
 
-No 4º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Greenneat, uma empresa especializada em produtos de limpeza sustentáveis e plant-based, identificamos a necessidade de criar uma solução para o gerenciamento de usuários e créditos. O principal desafio era desenvolver um sistema que permitisse o registro e o controle de transações de óleo usado, convertidas em créditos que poderiam ser utilizados como moeda de troca para benefícios e descontos na loja virtual da Greenneat.
+No 4º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Greenneat, uma empresa especializada em produtos de limpeza sustentáveis e plant-based, o problema identificado foi que ela precisava de um sistema para gerenciar usuários e créditos relacionados às transações de óleo usado, convertendo essas transações em benefícios e descontos na loja virtual. O maior desafio era criar um sistema que oferecesse controle centralizado e completo ao administrador, incluindo o registro detalhado de compras, vendas e movimentações de créditos.
 
-Além disso, o sistema deveria oferecer ao administrador uma visão completa das transações, incluindo compras, vendas e movimentações de créditos, proporcionando um controle centralizado e eficiente.
+Além disso, o sistema deveria oferecer ao administrador uma visão completa das transações, incluindo compras, vendas e movimentações de créditos, proporcionando um controle centralizado e eficiente, tudo aplicado em um dashboard.
 
 Desenvolvemos uma aplicação web completa para atender às demandas da Greenneat. O sistema foi implementado com:
 
@@ -366,7 +366,7 @@ Neste projeto, Fui responsável pelo desenvolvimento do front-end, incluindo as 
 
 > [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
 
-No 5º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Oracle, uma multinacional líder em tecnologia e inovação, o desafio proposto foi criar uma aplicação mobile para gerenciar o progresso de expertises e trilhas de conhecimento da Oracle e de seus parceiros. O sistema deveria:
+No 5º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Oracle, uma multinacional líder em tecnologia e inovação, o problema identificado foi que ela precisava de uma aplicação mobile para gerenciar trilhas de conhecimento e expertises dos parceiros, garantindo segurança, escalabilidade e uma interface intuitiva. O sistema deveria atender às seguintes necessidades
 
 Listar parceiros cadastrados e suas respectivas trilhas e expertises.
 Apresentar o progresso individual de cada parceiro em suas trilhas.
@@ -457,7 +457,7 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 
 > [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
 
-Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Dom Rock, uma empresa especializada em soluções tecnológicas para análise e gestão de dados corporativos, o desafio foi desenvolver uma aplicação de IA generativa para analisar e gerar insights a partir de reviews de produtos de e-commerce. O objetivo era auxiliar o departamento de compras corporativas na seleção de fornecedores e produtos, com base em análises detalhadas e feedbacks dos consumidores.
+Durante o 6º semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com a Dom Rock, uma empresa especializada em soluções tecnológicas para análise e gestão de dados corporativos, o problema identificado foi que a Dom Rock enfrentava desafios ao analisar grandes volumes de feedbacks de consumidores para auxiliar decisões de compras corporativas. Era necessário uma solução que convertesse essas análises em insights acionáveis, utilizando IA generativa e NLP, enquanto lidava com a escalabilidade e eficiência. Portanto o desafio foi desenvolver uma aplicação de IA generativa para analisar e gerar insights a partir de reviews de produtos de e-commerce. O objetivo era auxiliar o departamento de compras corporativas na seleção de fornecedores e produtos, com base em análises detalhadas e feedbacks dos consumidores.
 
 A solução deveria ser escalável, eficiente e capaz de transformar grandes volumes de dados em insights acionáveis, utilizando tecnologias de processamento de linguagem natural (NLP) e machine learning.
 
