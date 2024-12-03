@@ -108,22 +108,22 @@ Atuei no desenvolvimento FullStack, contribuindo tanto para o front-end quanto p
 ### Soft skills
 
 * Colaboração
-> Alcancei essa habilidade ao ajudar colegas com dificuldades na implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
+> Durante o desenvolvimento do sistema, colaborei diretamente com um colega responsável pelo back-end para integrar a funcionalidade de raspagem de dados à exibição das vagas no front-end. Esse esforço conjunto garantiu a consistência entre as informações capturadas e exibidas na interface. Além da implementação das telas do front-end. Contribuí na codificação das páginas de catálogo e desenvolvi a página de métricas, o que permitiu que todos concluíssem suas tarefas dentro do prazo.
 
 * Organização
-> Desenvolvi cronogramas semanais e dividi tarefas entre back-end e front-end, permitindo que cada membro da equipe se concentrasse em suas responsabilidades. Essa divisão eficiente resultou na conclusão ágil das etapas do projeto.
+> Criei um cronograma detalhado para gerenciar o desenvolvimento do catálogo de vagas e da página de métricas. Essa divisão clara de tarefas permitiu que a equipe equilibrasse as demandas do front-end e back-end, resultando na entrega antecipada dessas funcionalidades.
 
 * Comunicação
-> Desenvolvi habilidades de comunicação eficaz ao conduzir reuniões de alinhamento entre os membros da equipe, detalhando tarefas e garantindo que todos compreendessem as etapas do projeto.
+> Organizei e conduzi reuniões semanais com a equipe para alinhar as prioridades do projeto. Por exemplo, em um dos encontros, apresentei uma análise dos gargalos na estilização da página inicial, promovendo discussões para solucionar o problema de forma colaborativa.
 
 * Autonomia
-> Demonstrei autonomia ao resolver um problema complexo na implementação de filtros de dados. Pesquisei referências online, criando a solução por conta própria, o que acelerou o projeto e reforçou minha confiança em desafios novos.
+> Desenvolvi os filtros de seleção para o catálogo de vagas, enfrentando o desafio de criar uma lógica eficiente para ordenar e categorizar dados. Após explorar documentação e exemplos online, implementei a solução de forma independente, garantindo precisão na funcionalidade.
 
 * Trabalho em equipe
-> Organizei reuniões diárias utilizando metodologias ágeis, como Scrum, para revisar o progresso do projeto, identificar bloqueios e promover uma colaboração contínua entre os integrantes.
+> Durante a implementação da funcionalidade de métricas, reuni a equipe para decidir sobre o design e os gráficos a serem utilizados. Além disso muitos colegas necessitaram de ajuda referente às implementações de páginas no front-end em que pude auxiliar.
 
 * Gestão de tempo
-> Implementei cronogramas e utilizei o gráfico de burndown para monitorar e priorizar tarefas, garantindo que todas as etapas do projeto fossem entregues dentro dos prazos estabelecidos.
+> Utilizei o gráfico de burndown do projeto de cátalogo de vagas para monitorar o progresso do desenvolvimento das principais páginas e ajuste de funcionalidades críticas, como a raspagem de dados e fluidez do sistema. Essa abordagem facilitou a priorização das entregas, permitindo a conclusão dentro do cronograma estabelecido.
 
 
 ### Segundo Semestre - Em 2022-2
@@ -186,16 +186,13 @@ Neste projeto, fui responsável pelo desenvolvimento do wireframe, utilizando o 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Participei da organização de sprints e do planejamento do backlog, assegurando a conclusão das entregas dentro dos prazos estipulados.
+> Como PO, criei um cronograma detalhado para as entregas do projeto e monitorei o progresso de tarefas utilizando o gráfico de burndown, garantindo que o projeto fosse entregue dentro do prazo.
 
 * Liderança e comunicação com o cliente
-> Atuei como Product Owner, conduzindo reuniões com o cliente para esclarecimento de requisitos e repassando feedbacks claros à equipe.
+> Atuei como Product Owner, liderando reuniões com a TrackCash para validar requisitos e traduzir feedbacks do cliente em tarefas claras para que a equipe pudesse dar prosseguimento no aprendizado de Java Desktop e na aplicação da linguagem no projeto.
 
 * Trabalho em equipe e colaboração
-> Garanti um alinhamento eficiente entre os integrantes da equipe, promovendo uma comunicação aberta e um ambiente de cooperação para o sucesso do projeto.
-
-* Adaptabilidade em ambientes ágeis
-> Integrei novas tecnologias e práticas no processo de desenvolvimento, demonstrando flexibilidade para atuar em um ambiente ágil com metodologias como Scrum.
+> Colaborei diretamente com um colega do Back-End para integrar a funcionalidade de edição de registros, utilizando operações CRUD, além de ajustar querys no mysql e usar o NetBeans para desenvolver algumas interfaces.
 
 ### Terceiro Semestre - Em 2023-1
 
@@ -271,16 +268,16 @@ Neste projeto, fui responsável pelo desenvolvimento do Front-End. Criei o wiref
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Participei ativamente da definição de sprints e distribuição de tarefas, garantindo entregas dentro dos prazos estipulados.
+> Durante o projeto, ajudei a organizar as demandas do Front-End dividindo as tarefas em sprints detalhadas. Por exemplo, defini prazos para a implementação da interface de gerenciamento de usuários.
 
 * Trabalho em equipe e comunicação
-> Mantenho uma comunicação eficiente com a equipe, promovendo a resolução de problemas e alinhamento constante durante o desenvolvimento.
+> Colaborei diretamente com os outros desenvolvedores do Front-end para alinhar os prazos e término de desenvolvimento de interfaces, para garantir a integração perfeita entre as partes do sistema, desenvolvendo e entregando dentro do prazo as telas de cadastro e gerenciamento de usuários.
 
 * Adaptabilidade e feedback
-> Aprendi a adaptar o design e a funcionalidade das telas com base nos feedbacks recebidos, integrando mudanças de forma rápida e eficiente em um ambiente ágil.
+> Durante as reuniões daily, integrei sugestões sobre a interface, como mudança de cores, botões destuantes da página de login e destaquei os problemas de responsividade das páginas de login e home.
 
 * Liderança e comprometimento
-> Ao assumir responsabilidades no desenvolvimento do Front-End, demonstrei liderança e comprometimento com a entrega de uma solução de qualidade para o cliente.
+> Foi necessária a tomada de frente no desenvolvimento das telas mais complexas, como o dashboard administrativo, para gerar e montar os gráficos com a API de gráficos do Google. Além disso, foram necessários ajustes pendentes ao final das sprints em relação à responsividade.
 
 ### Quarto Semestre - Em 2023-2
 
@@ -355,16 +352,13 @@ Neste projeto, Fui responsável pelo desenvolvimento do front-end, incluindo as 
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Participei ativamente do planejamento das sprints e do acompanhamento do backlog, priorizando tarefas para garantir entregas consistentes e dentro dos prazos estipulados.
+> Eu contribuí para definições de tarefas juntamente com o Master, para separação das tarefas do Front-end, e uma melhor maneira de deixar o designer e cores para ficarem semelhantes aos da Greenneat. Além disso para o desenvolvimento da tela de parceiros e usuários o tempo estipulado foi preciso e conclui as tarefas dentro do prazo.
 
 * Comunicação e colaboração em equipe
-> Trabalhei de forma colaborativa em uma equipe multidisciplinar, garantindo alinhamento contínuo das atividades por meio de reuniões frequentes e feedbacks construtivos.
-
-* Adaptabilidade e Aprendizado Ágil
-> Aprendi a integrar o uso do TypeScript e me adaptei rapidamente às mudanças no escopo do projeto, aplicando práticas ágeis como o SCRUM para melhorar a eficiência e a qualidade do trabalho.
+> Eu tive problema com meu computador durante uma sprint e comuniquei à Master, a solução foi me comunicar com outro integrante, conversando com ele consegui a ajuda para desenvolver minha outra parte do trabalho, em conjunto com ele consegui finalizar e entregar sem problemas.
 
 * Foco na Solução de Problemas
-> Diante de desafios no desenvolvimento do sistema, mantive uma abordagem proativa para identificar problemas e implementar soluções eficazes, fortalecendo minha habilidade de resolução em um ambiente ágil.
+> Tive dificuldades para o desenvolvimento do Back-end, então pedi ajuda para um integrante mais especializado nessa parte, então consegui entender e com a ajuda dele desenvolver minha parte e entregar dentro do prazo.
 
 ### Quinto Semestre - Em 2024-1
 
@@ -449,16 +443,13 @@ Como Product Owner (PO), mantive uma comunicação constante com o cliente, escl
 ### Soft skills
 
 * Organização e gerenciamento de tempo
-> Planejei e acompanhei as sprints utilizando a metodologia SCRUM, garantindo entregas dentro dos prazos e priorizando tarefas de acordo com o backlog.
+> Como Product Owner, eu priorizei atividades no backlog entre Muito Alta, Alta, Média e Baixa, juntamente com o meu time de desenvolvimento e assegurei a entrega de funcionalidades essenciais. Além disso desenvolvi algumas páginas em React Native e fiz ajustes em outras que estavam mal otimizadas.
 
 * Comunicação e colaboração em equipe
-> Mantive alinhamento constante com os membros da equipe e o cliente, ajustando entregas de acordo com feedbacks recebidos e promovendo um ambiente colaborativo.
+> Procurei manter uma comunicação clara com os clientes, qualquer alteração que fizemos durante a sprint ou mudança de escopo do backlog foi apresentado à eles, recebendo feedback e implementando melhorias de forma eficiente. Colaborei com muitos dos meus colegas que necessitaram de ajuda em algumas telas do mobile que estavam dando erro, ou algumas alterações faltantes que eles não sabiam fazer, como a declaração de rotas e mapeamento de funções. 
 
 * Adaptação e Aprendizado Rápido
-> Aprendi e apliquei novas tecnologias como React Native com TypeScript, além de ajustar-me rapidamente às mudanças de escopo e requisitos durante o projeto.
-
-* Resolução de Problemas e Foco em Resultados
-> Contribuí diretamente para a superação de desafios técnicos e de design, garantindo a entrega de uma solução funcional e alinhada com os objetivos da Oracle.
+> Aprendi e apliquei novas tecnologias como React Native com TypeScript, precisei desenvolver algumas páginas em React Native e fazer ajustes em algumas outras, o que possibilitou um novo conhecimento e adaptação de maneira rápida, pois estava aprendendo enquanto desenvolvia.
 
 ### Sexto Semestre - Em 2024-2
 
@@ -537,14 +528,11 @@ Neste projeto, fui responsável pelo back-end, colaborei na integração dos mod
 ### Soft skills
 
 * Testes e Otimização de Desempenho
-> Realizei testes rigorosos para ajustar parâmetros da IA, otimizando o tempo de resposta e a qualidade das informações geradas.
+> Precisei realizar testes rigorosos para ajustar parâmetros da IA, realizando testes de otimização de temperature, analisando o tempo de resposta e a qualidade das informações geradas, além da aplicação do histórico e o retorno que essas informações nos proporcionou.
 
 * Gerenciamento de Projetos e Adaptação Rápida
-> Adaptei-me rapidamente ao uso de novas tecnologias, como FAISS e Langchain, garantindo a entrega de uma solução robusta e dentro do prazo.
+> Precisei trabalhar com PLN, o que tornou necessário o estudo base de Processamento de Linguagem Natural, além de me adaptar ao uso novas tecnologias, como FAISS, banco de dados de vetor, que realiza pesquisa de similaridade, repleta de recursos projetados para lidar com conjuntos de dados grandes e o Langchain, framework para integração com modelos de linguagem.
 
 * Comunicação Técnica e Colaboração em Equipe
-> Colaborei com a equipe transmitindo conceitos técnicos de IA e NLP, facilitando o entendimento e o alinhamento das tarefas.
-
-* Resolução de Problemas e Análise Crítica
-> Identifiquei gargalos no fluxo de dados e propus melhorias, garantindo um sistema mais eficiente e com menor tempo de processamento.
+> Ajudei a equipe a entender o motivo de se aplicar diferentes Temperatures, o que impacta no modelo e o motivo de selecionar uma específica, além de ter transmitindo conceitos técnicos de IA e NLP, facilitando o entendimento e o alinhamento das tarefas.
 
